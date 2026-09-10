@@ -4,10 +4,11 @@
   "type": "module",
   "scripts": {
     "import:soulgold": "node scripts/import-soulgold-v1.1.2.mjs",
+    "import:trophies": "node scripts/import-soulgold-trophies.mjs",
     "baseline:fetch": "node scripts/fetch-pokeapi-baseline.mjs",
     "merge:data": "node scripts/merge-guide-data.mjs",
     "build:data": "node scripts/merge-guide-data.mjs && node scripts/build-data-wrappers.mjs",
-    "validate": "node scripts/validate-data.mjs && node scripts/audit-provenance.mjs",
+    "validate": "node scripts/validate-data.mjs && node scripts/validate-trophy-data.mjs && node scripts/audit-provenance.mjs",
     "audit:provenance": "node scripts/audit-provenance.mjs",
     "audit:assets": "node scripts/audit-assets.mjs",
     "sync:test": "node sync-worker/test/worker.test.mjs",

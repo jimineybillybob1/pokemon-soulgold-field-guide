@@ -16,7 +16,7 @@
 | Source inventory | Complete | Official v1.1.2 repository/documentation, supplied branding reference and box-art page inventoried |
 | Core data | Complete | 959 documented Pokémon/form records across 702 Pokédex groups; structured encounters and acquisitions |
 | Planning data | Complete | 935 hack moves, per-form learnsets, TM/HM compatibility, 143 tutors and 241 hack items |
-| Journey data | Partial | Legendary, Hidden Grotto, FAQ, gift/trade/fossil/egg and trophy evidence included; complete route/quest order unavailable |
+| Journey data | Partial | Complete 121-trophy checklist and six reward milestones added alongside Legendary, Hidden Grotto, FAQ, gift/trade/fossil/egg evidence; complete route/quest order unavailable |
 | Advanced data | Covered where evidenced | 433 trainer records, eight Johto badges, world map, and source-backed trainer/starter/rival profile included; unaudited map markers intentionally omitted |
 | Local build | Complete | Data build, validation, provenance and asset audits passed; desktop and touch/mobile layouts reviewed |
 | Deployment | Complete | Public GitHub repository, GitHub Pages site and encrypted Cloudflare sync worker are live and verified |
@@ -48,12 +48,13 @@
 - Frozen the official v1.1.2 tag at commit `f434c1658b2194a9f688f6765e6aca4c53b9e1c8`; pinned the reusable baseline and sprite inputs.
 - Imported 959 exact forms, 935 moves, 524 abilities, 241 items, 133 encounter maps, 433 trainer records, 143 tutors and the documented special-acquisition guides.
 - Verified zero move-definition fallbacks and zero item-definition fallbacks.
-- Passed the data build, schema/reference validation, provenance audit and local asset audit; 2,162 local assets were verified, including 1,918 Pokémon sprite files.
+- Passed the data build, schema/reference validation, provenance audit and local asset audit; 2,170 local assets were verified, including 1,918 Pokémon sprite files.
 - Reviewed desktop and touch/mobile layouts. Included the source world map but intentionally omitted unaudited marker coordinates.
 - Enabled the Overview Gym Challenge tracker with all eight source-confirmed Johto badges and the official coloured trainer-card icons.
 - Added the first-load trainer setup with Gold/Crystal sprites, all nine source-confirmed player starters, automatic caught/team updates, and Silver battle filtering by the chosen rival starter. Skipping keeps the default Rival label and all three team variants.
 - Moved the persistent trainer/rival editor into Progress so the character, both names and both starter choices can be changed at any time; legacy `#trainer` links continue to open Progress.
 - Added an optional first-start starter nickname that is carried into Team Builder, aligned the profile dropdown row, and corrected shared Pokémon labels to use source display names in current/future builders and global search.
+- Imported all 121 active trophies from the pinned v1.1.2 source, added a searchable tiered checklist and six Route 40 reward milestones, and connected collected Pokémon rewards to exact-form Pokédex caught state and save/sync data.
 - Replaced the original compact title-screen-derived hero treatment with a new panoramic Johto sunrise illustration; retained the first generated hero as an unreferenced local backup.
 - Added an offline application shell and isolated local review on port 8893 to avoid stale service-worker state from prior guides.
 - Save migration, recovery and destructive import paths remain outside the claimed release QA scope.

@@ -44,6 +44,7 @@ Mark each as `required`, `later`, or `disabled`.
 - Battle Planner: required
 - Trainer profile/card, starter and rival mapping: required and locally implemented from frozen v1.1.2 source data
 - Badges and progress: required
+- Trophy checklist and Route 40 milestone rewards: required; 121 active v1.1.2 trophies plus six documented reward thresholds
 - Player journey and `available now` view: required where a documented gate exists; never infer availability across an undocumented gate
 - Route/quest checklist and personal notes: required for documented route/quest material
 - Decision filters and side-by-side comparison: required

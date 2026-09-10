@@ -1,11 +1,11 @@
 const CACHE_PREFIX = 'pokemon-soulgold-field-guide-';
-const CACHE_NAME = `${CACHE_PREFIX}1.1.2-20260910-r14`;
+const CACHE_NAME = `${CACHE_PREFIX}1.1.2-20260910-r15`;
 const SHELL = [
-  './', './index.html', './styles.css', './refinements.css?v=1.1.2-r14', './branding.css', './app.js?v=1.1.2-r14',
-  './config/game-config.js?v=1.1.2-r14', './config/game-overrides.js?v=1.1.2-r14',
+  './', './index.html', './styles.css', './refinements.css?v=1.1.2-r15', './branding.css', './app.js?v=1.1.2-r15',
+  './config/game-config.js?v=1.1.2-r15', './config/game-overrides.js?v=1.1.2-r15',
   './data/guide-data.js', './data/items-data.js', './data/legendary-data.js',
   './data/acquisition-data.js', './data/egg-data.js', './data/battle-data.js',
-  './data/move-tutor-data.js', './data/curated-builds.js', './site.webmanifest',
+  './data/move-tutor-data.js', './data/curated-builds.js', './data/trophy-data.js', './site.webmanifest',
   './assets/art/soulgold-hero-v2.png',
   './assets/art/pwa-icon-192.png', './assets/art/pwa-icon-512.png',
   './assets/trainers/soulgold/brendan.png', './assets/trainers/soulgold/may.png',
@@ -22,7 +22,7 @@ self.addEventListener('install', event => {
       .then(cache => Promise.all(SHELL.map(async path => {
         const canonicalUrl = new URL(path, self.registration.scope);
         const fetchUrl = new URL(canonicalUrl);
-        fetchUrl.searchParams.set('__precache', '1.1.2-r14');
+        fetchUrl.searchParams.set('__precache', '1.1.2-r15');
         const request = new Request(fetchUrl, { cache: 'reload' });
         const response = await fetch(request);
         if (!response.ok) throw new Error(`Failed to cache ${path}: ${response.status}`);

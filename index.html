@@ -22,10 +22,10 @@
   <link rel="apple-touch-icon" sizes="180x180" href="assets/art/apple-touch-icon.png">
   <link rel="manifest" href="site.webmanifest">
   <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" href="refinements.css?v=1.1.2-r14">
+  <link rel="stylesheet" href="refinements.css?v=1.1.2-r15">
   <link rel="stylesheet" href="branding.css">
-  <script src="config/game-config.js?v=1.1.2-r14"></script>
-  <script src="config/game-overrides.js?v=1.1.2-r14"></script>
+  <script src="config/game-config.js?v=1.1.2-r15"></script>
+  <script src="config/game-overrides.js?v=1.1.2-r15"></script>
   <script src="sync-config.js"></script>
 </head>
 <body>
@@ -52,6 +52,7 @@
         <button data-view="future"><img class="nav-sprite" src="assets/item-dex/1.png" alt="">Future Team</button>
         <button data-view="favorites"><img class="nav-sprite" src="assets/items/heart-scale.png" alt="">Favorites</button>
         <button data-view="battle"><img class="nav-sprite" src="assets/items/vs-seeker.png" alt="">Battles</button>
+        <button data-view="trophies"><img class="nav-sprite" src="assets/items/soulgold/kings_rock.png" alt="">Trophies</button>
         <button data-view="trainer"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt="">Trainer</button>
         <button data-view="progress"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt="">Progress</button>
         <button data-view="save"><img class="nav-sprite" src="assets/items/card-key.png" alt="">Save &amp; Sync</button>
@@ -60,7 +61,7 @@
     </aside>
     <main id="mainContent" tabindex="-1"></main>
   </div>
-  <nav class="mobile-nav"><button data-view="home"><img class="nav-sprite" src="assets/items/exp-candy-xl.png" alt=""><small>Home</small></button><button data-view="pokedex"><img class="nav-sprite" src="assets/items/poke-radar.png" alt=""><small>Dex</small></button><button data-view="moves"><img class="nav-sprite" src="assets/items/tm-case.png" alt=""><small>Moves</small></button><button data-view="items"><img class="nav-sprite" src="assets/items/prop-case.png" alt=""><small>Items</small></button><button data-view="locations"><img class="nav-sprite" src="assets/items/old-sea-map.png" alt=""><small>Places</small></button><button data-view="team"><img class="nav-sprite" src="assets/items/poke-ball.png" alt=""><small>Team</small></button><button data-view="future"><img class="nav-sprite" src="assets/item-dex/1.png" alt=""><small>Future</small></button><button data-view="favorites"><img class="nav-sprite" src="assets/items/heart-scale.png" alt=""><small>Saved</small></button><button data-view="battle"><img class="nav-sprite" src="assets/items/vs-seeker.png" alt=""><small>Battles</small></button><button data-view="trainer"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt=""><small>Trainer</small></button><button data-view="progress"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt=""><small>Progress</small></button><button data-view="save"><img class="nav-sprite" src="assets/items/card-key.png" alt=""><small>Sync</small></button></nav>
+  <nav class="mobile-nav"><button data-view="home"><img class="nav-sprite" src="assets/items/exp-candy-xl.png" alt=""><small>Home</small></button><button data-view="pokedex"><img class="nav-sprite" src="assets/items/poke-radar.png" alt=""><small>Dex</small></button><button data-view="moves"><img class="nav-sprite" src="assets/items/tm-case.png" alt=""><small>Moves</small></button><button data-view="items"><img class="nav-sprite" src="assets/items/prop-case.png" alt=""><small>Items</small></button><button data-view="locations"><img class="nav-sprite" src="assets/items/old-sea-map.png" alt=""><small>Places</small></button><button data-view="team"><img class="nav-sprite" src="assets/items/poke-ball.png" alt=""><small>Team</small></button><button data-view="future"><img class="nav-sprite" src="assets/item-dex/1.png" alt=""><small>Future</small></button><button data-view="favorites"><img class="nav-sprite" src="assets/items/heart-scale.png" alt=""><small>Saved</small></button><button data-view="battle"><img class="nav-sprite" src="assets/items/vs-seeker.png" alt=""><small>Battles</small></button><button data-view="trophies"><img class="nav-sprite" src="assets/items/soulgold/kings_rock.png" alt=""><small>Trophies</small></button><button data-view="trainer"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt=""><small>Trainer</small></button><button data-view="progress"><img class="nav-sprite" src="assets/items/adventure-guide.png" alt=""><small>Progress</small></button><button data-view="save"><img class="nav-sprite" src="assets/items/card-key.png" alt=""><small>Sync</small></button></nav>
   <dialog id="detailDialog"><div id="dialogContent"></div></dialog>
   <dialog id="profileSetupDialog" aria-labelledby="profileSetupTitle"></dialog>
   <button id="jumpTop" aria-label="Jump to top">↑</button>
@@ -73,7 +74,8 @@
   <script src="data/battle-data.js"></script>
   <script src="data/move-tutor-data.js"></script>
   <script src="data/curated-builds.js"></script>
-  <script src="app.js?v=1.1.2-r14"></script>
-  <script>if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js?v=1.1.2-r14'));</script>
+  <script src="data/trophy-data.js"></script>
+  <script src="app.js?v=1.1.2-r15"></script>
+  <script>if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('./service-worker.js?v=1.1.2-r15'));</script>
 </body>
 </html>

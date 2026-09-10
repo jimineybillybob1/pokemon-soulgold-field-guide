@@ -309,6 +309,44 @@
 .trainer-profile-skip:hover { border-color: color-mix(in srgb, var(--red) 45%, var(--line)); background: var(--panel2); }
 .trainer-profile-actions button:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
 
+.trophy-total { align-self:center; padding:.75rem 1rem; border:1px solid color-mix(in srgb,var(--gold) 55%,var(--line)); border-radius:99px; color:var(--gold); background:color-mix(in srgb,var(--gold) 10%,var(--panel)); font-size:1rem; white-space:nowrap; }
+.trophy-milestones { margin:0 0 1.25rem; padding:1.25rem; border:1px solid color-mix(in srgb,var(--gold) 42%,var(--line)); border-radius:20px; background:linear-gradient(135deg,color-mix(in srgb,var(--gold) 8%,var(--panel)),var(--panel)); }
+.trophy-milestones>header { display:flex; align-items:flex-start; justify-content:space-between; gap:1rem; margin-bottom:1rem; }
+.trophy-milestones h2 { margin:.25rem 0; }
+.trophy-milestones>header p { max-width:720px; margin:0; color:var(--muted); font-size:.8rem; }
+.trophy-milestones>div { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.7rem; }
+.trophy-milestone { display:grid; grid-template-columns:58px 54px minmax(0,1fr) auto; align-items:center; gap:.7rem; padding:.75rem; border:1px solid var(--line); border-radius:14px; background:var(--panel2); }
+.trophy-milestone>span { display:grid; place-items:center; align-content:center; width:58px; height:58px; border-radius:50%; color:var(--gold); background:color-mix(in srgb,var(--gold) 12%,var(--panel)); font-size:1.15rem; font-weight:900; }
+.trophy-milestone>span small { font-size:.42rem; letter-spacing:.08em; }
+.trophy-milestone>img { width:50px; height:50px; object-fit:contain; image-rendering:pixelated; }
+.trophy-milestone strong,.trophy-milestone small,.trophy-milestone b { display:block; }
+.trophy-milestone>div>small { margin:.2rem 0; color:var(--muted); font-size:.68rem; line-height:1.4; }
+.trophy-milestone>div>b { color:var(--muted); font-size:.62rem; }
+.trophy-milestone.available { border-color:color-mix(in srgb,var(--gold) 50%,var(--line)); }
+.trophy-milestone.collected { border-color:color-mix(in srgb,var(--success) 58%,var(--line)); background:color-mix(in srgb,var(--success) 7%,var(--panel2)); }
+.trophy-milestone.collected>div>b { color:var(--success); }
+.trophy-milestone>button { min-height:40px; padding:0 .75rem; border:1px solid var(--gold); border-radius:10px; color:var(--gold); background:transparent; font-weight:850; cursor:pointer; }
+.trophy-milestone.collected>button { border-color:var(--success); color:var(--success); }
+.trophy-controls { display:grid; grid-template-columns:minmax(0,1fr) 180px; gap:.8rem; margin:1rem 0; }
+.trophy-controls input,.trophy-controls select { width:100%; min-height:46px; padding:0 .9rem; border:1px solid var(--line); border-radius:12px; color:var(--text); background:var(--panel2); font:inherit; }
+.trophy-controls label span { display:block; margin:0 0 .3rem; color:var(--muted); font-size:.65rem; font-weight:850; }
+.trophy-group { margin:0 0 1rem; padding:1rem; border:1px solid var(--line); border-radius:18px; background:var(--panel); }
+.trophy-group>header { display:flex; align-items:center; justify-content:space-between; gap:1rem; margin-bottom:.8rem; }
+.trophy-group h2 { margin:0; font-size:1.05rem; }
+.trophy-group>header>b { color:var(--muted); font-size:.72rem; }
+.trophy-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:.65rem; }
+.trophy-card { display:grid; align-content:start; gap:.42rem; min-height:150px; padding:.9rem; border:1px solid var(--line); border-radius:13px; color:var(--text); background:var(--panel2); text-align:left; cursor:pointer; }
+.trophy-card:hover { border-color:var(--gold); transform:translateY(-1px); }
+.trophy-card>strong { font-size:.9rem; }
+.trophy-card>small { color:var(--muted); font-size:.68rem; line-height:1.45; }
+.trophy-card>b { align-self:end; margin-top:auto; color:var(--muted); font-size:.64rem; }
+.trophy-card.achieved { border-color:color-mix(in srgb,var(--success) 58%,var(--line)); background:color-mix(in srgb,var(--success) 7%,var(--panel2)); }
+.trophy-card.achieved>b { color:var(--success); }
+.trophy-tier { justify-self:start; padding:.2rem .45rem; border-radius:99px; color:#fff; background:#a5673f; font-size:.55rem; font-weight:900; letter-spacing:.07em; text-transform:uppercase; }
+.trophy-tier.silver { background:#778899; }.trophy-tier.gold { color:#332400; background:#ffd84d; }.trophy-tier.platinum { color:#102d35; background:#8de6e6; }
+@media(max-width:900px){.trophy-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.trophy-milestones>div{grid-template-columns:1fr}}
+@media(max-width:580px){.trophy-milestones>header{flex-direction:column}.trophy-controls{grid-template-columns:1fr}.trophy-grid{grid-template-columns:1fr}.trophy-milestone{grid-template-columns:48px 44px minmax(0,1fr)}.trophy-milestone>span{width:48px;height:48px}.trophy-milestone>img{width:42px;height:42px}.trophy-milestone>button{grid-column:1/-1;width:100%}}
+
 .trainer-dex-progress { margin: 1.2rem 0 0; padding: 1.3rem 1.4rem; box-shadow: 0 0 0 1px rgba(63,183,243,.22), 0 0 14px rgba(63,183,243,.13); }
 .trainer-dex-progress > header { display: flex; align-items: end; justify-content: space-between; gap: 1rem; }
 .trainer-dex-progress h2 { margin: .22rem 0 0; }
