@@ -1,8 +1,8 @@
 const CACHE_PREFIX = 'pokemon-soulgold-field-guide-';
-const CACHE_NAME = `${CACHE_PREFIX}1.1.2-20260910-r17`;
+const CACHE_NAME = `${CACHE_PREFIX}1.1.2-20260910-r18`;
 const SHELL = [
-  './', './index.html', './styles.css', './refinements.css?v=1.1.2-r17', './branding.css', './app.js?v=1.1.2-r17',
-  './config/game-config.js?v=1.1.2-r17', './config/game-overrides.js?v=1.1.2-r17',
+  './', './index.html', './styles.css', './refinements.css?v=1.1.2-r18', './branding.css', './app.js?v=1.1.2-r18',
+  './config/game-config.js?v=1.1.2-r18', './config/game-overrides.js?v=1.1.2-r18',
   './data/guide-data.js', './data/items-data.js', './data/legendary-data.js',
   './data/acquisition-data.js', './data/egg-data.js', './data/battle-data.js',
   './data/move-tutor-data.js', './data/curated-builds.js', './data/trophy-data.js', './site.webmanifest',
@@ -22,7 +22,7 @@ self.addEventListener('install', event => {
       .then(cache => Promise.all(SHELL.map(async path => {
         const canonicalUrl = new URL(path, self.registration.scope);
         const fetchUrl = new URL(canonicalUrl);
-        fetchUrl.searchParams.set('__precache', '1.1.2-r17');
+        fetchUrl.searchParams.set('__precache', '1.1.2-r18');
         const request = new Request(fetchUrl, { cache: 'reload' });
         const response = await fetch(request);
         if (!response.ok) throw new Error(`Failed to cache ${path}: ${response.status}`);

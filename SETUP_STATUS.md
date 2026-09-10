@@ -57,6 +57,7 @@
 - Imported all 121 active trophies from the pinned v1.1.2 source, added a searchable tiered checklist and six Route 40 reward milestones, and connected collected Pokémon rewards to exact-form Pokédex caught state and save/sync data.
 - Aligned the Trophies search and tier controls with matching visible labels across desktop and mobile layouts.
 - Added an explicit Galarian Form label for Zigzagoon so its exact form can be distinguished, selected and saved in Team Builder and Future Team.
+- Generalized form-aware display labels for same-name regional, Mega, Galarian, Alolan, Hisuian and other variants across Team Builder, Future Team, Favorites and search.
 - Replaced the original compact title-screen-derived hero treatment with a new panoramic Johto sunrise illustration; retained the first generated hero as an unreferenced local backup.
 - Added an offline application shell and isolated local review on port 8893 to avoid stale service-worker state from prior guides.
 - Save migration, recovery and destructive import paths remain outside the claimed release QA scope.
