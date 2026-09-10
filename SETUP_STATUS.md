@@ -59,6 +59,7 @@
 - Added an explicit Galarian Form label for Zigzagoon so its exact form can be distinguished, selected and saved in Team Builder and Future Team.
 - Generalized form-aware display labels for same-name regional, Mega, Galarian, Alolan, Hisuian and other variants across Team Builder, Future Team, Favorites and search.
 - Corrected SoulGold item-category aliases so held-item search is populated, and enabled the searchable picker across Team Builder, Future Team and Favorites.
+- Corrected the Locations index to merge duplicate place records without losing exact encounters, and ensured all-day encounters remain visible under either global Day/Night selection.
 - Replaced the original compact title-screen-derived hero treatment with a new panoramic Johto sunrise illustration; retained the first generated hero as an unreferenced local backup.
 - Added an offline application shell and isolated local review on port 8893 to avoid stale service-worker state from prior guides.
 - Save migration, recovery and destructive import paths remain outside the claimed release QA scope.
