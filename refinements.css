@@ -328,6 +328,7 @@
 .trophy-milestone>button { min-height:40px; padding:0 .75rem; border:1px solid var(--gold); border-radius:10px; color:var(--gold); background:transparent; font-weight:850; cursor:pointer; }
 .trophy-milestone.collected>button { border-color:var(--success); color:var(--success); }
 .trophy-controls { display:grid; grid-template-columns:minmax(0,1fr) 180px; gap:.8rem; margin:1rem 0; }
+.trophy-controls label { display:block; min-width:0; }
 .trophy-controls input,.trophy-controls select { width:100%; min-height:46px; padding:0 .9rem; border:1px solid var(--line); border-radius:12px; color:var(--text); background:var(--panel2); font:inherit; }
 .trophy-controls label span { display:block; margin:0 0 .3rem; color:var(--muted); font-size:.65rem; font-weight:850; }
 .trophy-group { margin:0 0 1rem; padding:1rem; border:1px solid var(--line); border-radius:18px; background:var(--panel); }
