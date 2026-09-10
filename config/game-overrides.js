@@ -6,7 +6,8 @@ window.GUIDE_OVERRIDES = {
   // Official trainers.json shorthand; resolves to the exported non-Zen form.
   battleSpeciesAliases: { darmanitangalar: 'Darmanitan Galar Standard' },
   displayNames: {},
-  formLabels: {},
+  // Official v1.1.2 species export: keep same-species regional forms distinct in builders and search.
+  formLabels: { 'zigzagoon-galar': 'Galarian Form' },
   sharedLearnsets: [],
   // v1.1.2 docs/data/encounters.json and the docs renderer's fishing slices.
   encounterMethodOrder: ['Wild', 'Rock', 'Surf', 'Fish'],

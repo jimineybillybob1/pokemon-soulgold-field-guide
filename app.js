@@ -109,7 +109,7 @@
   function updateProgress(){ const pct=Math.round(numberedCaughtCount()/Math.max(numberedGroups.length,1)*100); document.querySelector('#headerProgress').textContent=`${pct}%`; }
   function activeForm(group){ return group.forms.find(f=>f.id===state.selected[group.entryKey]) || group.forms[0]; }
   function formName(group,form){if(group.forms.length<2)return '';const explicit=guideOverrides.formLabels?.[form.key];if(explicit)return explicit;if(form.key===group.forms[0].key)return 'Base form';const prefix=`${group.name}-`;return(form.key.startsWith(prefix)?form.key.slice(prefix.length):form.key).replaceAll('-',' ')}
-  function displayPokemonName(p){return guideOverrides.displayNames?.[p?.key]||p?.name||(p?.key||'').replaceAll('-',' ')}
+  function displayPokemonName(p){const explicit=guideOverrides.displayNames?.[p?.key];if(explicit)return explicit;const formLabel=guideOverrides.formLabels?.[p?.key];return formLabel&&p?.name?`${p.name} (${formLabel})`:p?.name||(p?.key||'').replaceAll('-',' ')}
   function formChangeSection(){return ''}
   function pokemonSprite(p,shiny=false){return shiny&&p?.shinySprite?p.shinySprite:p?.sprite||''}
   function detailUsesShiny(p){return Boolean(p?.shinySprite&&(state.detailShiny[p.id]??state.showShiny))}
