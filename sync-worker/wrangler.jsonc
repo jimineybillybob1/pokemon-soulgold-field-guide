@@ -1,0 +1,14 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "pokemon-soulgold-field-guide-sync",
+  "main": "src/index.js",
+  "compatibility_date": "2026-07-21",
+  "vars": {
+    "ALLOWED_ORIGINS": "https://jimineybillybob1.github.io,http://127.0.0.1:8893"
+  },
+  "kv_namespaces": [
+    {
+      "binding": "SAVES"
+    }
+  ]
+}

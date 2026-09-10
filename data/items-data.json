@@ -1,0 +1,7717 @@
+[
+  {
+    "id": 65,
+    "key": "hp-up",
+    "name": "HP Up",
+    "description": "Raises the base HP of one Pokemon.",
+    "category": "Medicine",
+    "sprite": "assets/items/soulgold/hp_up.png",
+    "locations": [
+      "Route 38 (Hidden item)",
+      "Victory Road B1F (Item ball)",
+      "Gate Goldenrod City Route 35 (Gift)",
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "key": "protein",
+    "name": "Protein",
+    "description": "Raises the base Attack stat of one Pokemon.",
+    "category": "Medicine",
+    "sprite": "assets/items/soulgold/vitamin.png",
+    "locations": [
+      "Blackthorn City (Hidden item)",
+      "Ice Path 1F (Item ball)",
+      "Olivine City Lighthouse (Item ball)",
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "key": "iron",
+    "name": "Iron",
+    "description": "Raises the base Defense stat of one Pokemon.",
+    "category": "Medicine",
+    "sprite": "assets/items/soulgold/vitamin.png",
+    "locations": [
+      "Ice Path B1F (Item ball)",
+      "Mt Mortar 2F (Item ball)",
+      "Route 48 (Hidden item)",
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "key": "calcium",
+    "name": "Calcium",
+    "description": "Raises the base Sp. Atk stat of one Pokemon.",
+    "category": "Medicine",
+    "sprite": "assets/items/soulgold/vitamin.png",
+    "locations": [
+      "Burned Tower B1F (Hidden item)",
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "key": "zinc",
+    "name": "Zinc",
+    "description": "Raises the base Sp. Def stat of one Pokemon.",
+    "category": "Medicine",
+    "sprite": "assets/items/soulgold/vitamin.png",
+    "locations": [
+      "Kitakami Border (Hidden item)",
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "key": "carbos",
+    "name": "Carbos",
+    "description": "Raises the base Speed stat of one Pokemon.",
+    "category": "Medicine",
+    "sprite": "assets/items/soulgold/vitamin.png",
+    "locations": [
+      "Ice Path B2F (Item ball)",
+      "Mt Mortar B1F (Item ball)",
+      "Route 36 (Hidden item)",
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "key": "ability-capsule",
+    "name": "Ability Capsule",
+    "description": "Switches a Pokemon's ability.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/ability_capsule.png",
+    "locations": [
+      "Goldenrod Shore (Item ball)",
+      "Victory Road B2F (Item ball)",
+      "Battle Frontier Battle Factory Lobby (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "key": "ability-patch",
+    "name": "Ability Patch",
+    "description": "Turns the ability of a Pokemon into a rare ability.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/ability_patch.png",
+    "locations": [
+      "Route 27 (Item ball)",
+      "Snowtop Mountain B1F (Item ball)",
+      "Tin Tower 4F (Item ball)",
+      "Union Cave B2F (Hidden item)",
+      "Whirl Islands Descent (Item ball)",
+      "Battle Frontier Battle Factory Lobby (Mart)",
+      "Goldenrod City Radio Tower 2F (Buena's Password prize)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "key": "bottle-cap",
+    "name": "Bottle Cap",
+    "description": "A beautiful bottle cap that gives off a silver gleam.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/bottle_cap.png",
+    "locations": [
+      "Battle Tower (BP shop)",
+      "Any fishing spot (Super Rod rare find)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 134,
+    "key": "gold-bottle-cap",
+    "name": "Gold Bottle Cap",
+    "description": "A beautiful bottle cap that gives off a golden gleam.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/bottle_cap.png",
+    "locations": [
+      "Cianwood City (Item ball)",
+      "Battle Cafe (Gift)",
+      "Battle Tower (BP shop)",
+      "Any fishing spot (Super Rod rare find)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 164,
+    "key": "strange-souvenir",
+    "name": "Strange Souvenir",
+    "description": "An ornament that depicts a Pokemon from another region.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/strange_souvenir.png",
+    "locations": [
+      "Olivine City (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 211,
+    "key": "fire-stone",
+    "name": "Fire Stone",
+    "description": "Makes certain species of Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/fire_stone.png",
+    "locations": [
+      "Mt Mortar Depths 1 (Item ball)",
+      "Ruins of Alph Puzzle And Reward Chambers (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)",
+      "Goldenrod City Game Corner (Bought)",
+      "Safari Zone Gate (Mart)",
+      "Bug Catching Contest (2nd place choice)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 212,
+    "key": "water-stone",
+    "name": "Water Stone",
+    "description": "Makes certain species of Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/water_stone.png",
+    "locations": [
+      "Ruins of Alph Puzzle And Reward Chambers (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)",
+      "Goldenrod City Game Corner (Bought)",
+      "Safari Zone Gate (Mart)",
+      "Bug Catching Contest (2nd place choice)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 213,
+    "key": "thunder-stone",
+    "name": "Thunder Stone",
+    "description": "Makes certain species of Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/thunder_stone.png",
+    "locations": [
+      "Olivine City Lighthouse (Item ball)",
+      "Ruins of Alph Puzzle And Reward Chambers (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)",
+      "Goldenrod City Game Corner (Bought)",
+      "Bug Catching Contest (2nd place choice)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 214,
+    "key": "leaf-stone",
+    "name": "Leaf Stone",
+    "description": "Makes certain species of Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/leaf_stone.png",
+    "locations": [
+      "Ruins of Alph Puzzle And Reward Chambers (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)",
+      "Goldenrod City Game Corner (Bought)",
+      "Safari Zone Gate (Mart)",
+      "Ilex Forest (Hidden Grotto rare item)",
+      "Bug Catching Contest (1st place choice)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 215,
+    "key": "ice-stone",
+    "name": "Ice Stone",
+    "description": "Makes certain species of Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/ice_stone.png",
+    "locations": [
+      "Snowtop Mountain (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)",
+      "Route 44 (Hidden Grotto rare item)",
+      "Bug Catching Contest (1st place choice)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 216,
+    "key": "sun-stone",
+    "name": "Sun Stone",
+    "description": "Makes certain species of Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/sun_stone.png",
+    "locations": [
+      "Route 43 (Item ball)",
+      "Vajra Desert East (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)",
+      "Goldenrod City Game Corner (Bought)",
+      "Route 33 (Hidden Grotto rare item)",
+      "Bug Catching Contest (1st place choice)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 217,
+    "key": "moon-stone",
+    "name": "Moon Stone",
+    "description": "Makes certain species of Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/moon_stone.png",
+    "locations": [
+      "Route 27 (Item ball)",
+      "Ruins of Alph Puzzle And Reward Chambers (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)",
+      "Goldenrod City Game Corner (Bought)",
+      "Clefairy (Wild held item (rare))",
+      "Clefable (Wild held item (rare))",
+      "Jigglypuff (Wild held item (rare))",
+      "Wigglytuff (Wild held item (rare))",
+      "Cleffa (Wild held item (rare))",
+      "Bug Catching Contest (1st place choice)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 218,
+    "key": "shiny-stone",
+    "name": "Shiny Stone",
+    "description": "Makes certain species of Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/shiny_stone.png",
+    "locations": [
+      "Indigo Plateau Pokemon Center (Mart)",
+      "New Bark Town Lab (Gift)",
+      "Bug Catching Contest (1st place choice)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 219,
+    "key": "dusk-stone",
+    "name": "Dusk Stone",
+    "description": "Makes certain species of Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/dusk_stone.png",
+    "locations": [
+      "Dark Cave South Side (Item ball)",
+      "Mt Mortar B1F (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)",
+      "Bug Catching Contest (1st place choice)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 220,
+    "key": "dawn-stone",
+    "name": "Dawn Stone",
+    "description": "Makes certain species of Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/dawn_stone.png",
+    "locations": [
+      "Route 45 (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)",
+      "Bug Catching Contest (1st place choice)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 221,
+    "key": "sweet-apple",
+    "name": "Sweet Apple",
+    "description": "A very sweet apple that makes certain Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/sweet_apple.png",
+    "locations": [
+      "Route 40 House 5 (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 222,
+    "key": "tart-apple",
+    "name": "Tart Apple",
+    "description": "A very tart apple that makes certain Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/tart_apple.png",
+    "locations": [
+      "Route 40 House 5 (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 223,
+    "key": "cracked-pot",
+    "name": "Cracked Pot",
+    "description": "A cracked teapot that makes certain Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/cracked_pot.png",
+    "locations": [
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 224,
+    "key": "chipped-pot",
+    "name": "Chipped Pot",
+    "description": "A chipped teapot that makes certain Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/chipped_pot.png",
+    "locations": [
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 225,
+    "key": "galarica-cuff",
+    "name": "Galarica Cuff",
+    "description": "A cuff from Galar that makes certain Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/galarica_cuff.png",
+    "locations": [
+      "Azalea Town Mart (after 4 badges)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 226,
+    "key": "galarica-wreath",
+    "name": "Galarica Wreath",
+    "description": "A wreath made in Galar. Makes some Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/galarica_wreath.png",
+    "locations": [
+      "Azalea Town Mart (after 4 badges)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 227,
+    "key": "dragon-scale",
+    "name": "Dragon Scale",
+    "description": "A strange scale held by Dragon- type Pokemon.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/dragon_scale.png",
+    "locations": [
+      "Mt Mortar 2F (Item ball)",
+      "Mahogany Town Shop (After Rocket Hideout event)",
+      "Horsea (Wild held item (rare))",
+      "Seadra (Wild held item (rare))",
+      "Dratini (Wild held item (rare))",
+      "Dragonair (Wild held item (rare))",
+      "Dragonite (Wild held item (rare))",
+      "Kingdra (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 228,
+    "key": "upgrade",
+    "name": "Upgrade",
+    "description": "A peculiar box made by Silph Co.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/upgrade.png",
+    "locations": [
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 229,
+    "key": "protector",
+    "name": "Protector",
+    "description": "Loved by a certain Pokemon. It's stiff and heavy.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/protector.png",
+    "locations": [
+      "Kitakami Temple Storage (Item ball)",
+      "Rhyhorn (Wild held item (rare))",
+      "Rhydon (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 230,
+    "key": "electirizer",
+    "name": "Electirizer",
+    "description": "Loved by a certain Pokemon. It's full of electric energy.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/electirizer.png",
+    "locations": [
+      "Electabuzz (Wild held item (rare))",
+      "Elekid (Wild held item (rare))",
+      "Electivire (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 231,
+    "key": "magmarizer",
+    "name": "Magmarizer",
+    "description": "Loved by a certain Pokemon. It's full of magma energy.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/magmarizer.png",
+    "locations": [
+      "Rinto Village (Item ball)",
+      "Magmar (Wild held item (rare))",
+      "Magby (Wild held item (rare))",
+      "Magmortar (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 232,
+    "key": "dubious-disc",
+    "name": "Dubious Disc",
+    "description": "A clear device overflowing with dubious data.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/dubious_disc.png",
+    "locations": [
+      "Mahogany Town Shop (After Rocket Hideout event)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 233,
+    "key": "reaper-cloth",
+    "name": "Reaper Cloth",
+    "description": "Loved by a certain Pokemon. Imbued with spirit energy.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/reaper_cloth.png",
+    "locations": [
+      "Kitakami Mountain 4F (Item ball)",
+      "Duskull (Wild held item (rare))",
+      "Dusclops (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 234,
+    "key": "prism-scale",
+    "name": "Prism Scale",
+    "description": "A mysterious scale that evolves a certain Pokemon.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/prism_scale.png",
+    "locations": [
+      "Route 47 (Item ball)",
+      "Goldenrod City Game Corner (Bought)",
+      "Feebas (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 237,
+    "key": "oval-stone",
+    "name": "Oval Stone",
+    "description": "Peculiar stone that evolves a certain Pokemon.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/oval_stone.png",
+    "locations": [
+      "Chansey (Wild held item (common))",
+      "Blissey (Wild held item (common))",
+      "Happiny (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 245,
+    "key": "everstone",
+    "name": "Everstone",
+    "description": "A wondrous hold item that prevents evolution.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/everstone.png",
+    "locations": [
+      "Geodude (Wild held item (rare))",
+      "Graveler (Wild held item (rare))",
+      "Golem (Wild held item (rare))",
+      "Route 32 (Hidden Grotto rare item)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 392,
+    "key": "light-ball",
+    "name": "Light Ball",
+    "description": "A hold item that raises the Atk and Sp. Atk of Pikachu.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/light_ball.png",
+    "locations": [
+      "Pikachu (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 393,
+    "key": "leek",
+    "name": "Leek",
+    "description": "A hold item that raises Farfetch'd's critical-hit ratio.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/leek.png",
+    "locations": [
+      "Farfetch'd (Wild held item (rare))",
+      "Farfetch'd (Wild held item (common))",
+      "Sirfetch'd (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 394,
+    "key": "thick-club",
+    "name": "Thick Club",
+    "description": "A hold item that raises Cubone or Marowak's Attack.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/bone.png",
+    "locations": [
+      "Cubone (Wild held item (rare))",
+      "Marowak (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 395,
+    "key": "lucky-punch",
+    "name": "Lucky Punch",
+    "description": "A hold item that raises Chansey's critical-hit rate.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/lucky_punch.png",
+    "locations": [
+      "Route 47 (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 396,
+    "key": "metal-powder",
+    "name": "Metal Powder",
+    "description": "A hold item that raises Ditto's Defense.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/ditto_powder.png",
+    "locations": [
+      "Ditto (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 397,
+    "key": "quick-powder",
+    "name": "Quick Powder",
+    "description": "A hold item that raises the Speed of Ditto.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/ditto_powder.png",
+    "locations": [
+      "Ditto (Wild held item (common))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 398,
+    "key": "deep-sea-scale",
+    "name": "Deep Sea Scale",
+    "description": "A hold item that raises the Sp. Def of Clamperl.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/deep_sea_scale.png",
+    "locations": [
+      "Chinchou (Wild held item (rare))",
+      "Lanturn (Wild held item (rare))",
+      "Finneon (Wild held item (rare))",
+      "Lumineon (Wild held item (rare))",
+      "Basculin (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 399,
+    "key": "deep-sea-tooth",
+    "name": "Deep Sea Tooth",
+    "description": "A hold item that raises the Sp. Atk of Clamperl.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/deep_sea_tooth.png",
+    "locations": [
+      "Carvanha (Wild held item (rare))",
+      "Sharpedo (Wild held item (rare))",
+      "Spheal (Wild held item (rare))",
+      "Basculin (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 400,
+    "key": "soul-dew",
+    "name": "Soul Dew",
+    "description": "Powers up Latios' & Latias' Psychic and Dragon-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/soul_dew.png",
+    "locations": [
+      "Lati Temple Souldew Room (Hidden item)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 401,
+    "key": "adamant-orb",
+    "name": "Adamant Orb",
+    "description": "Boosts Dialga's Dragon/Steel moves and changes form.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/adamant_orb.png",
+    "locations": [
+      "Spear Pillar Top (Hidden item)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 402,
+    "key": "lustrous-orb",
+    "name": "Lustrous Orb",
+    "description": "Boosts Palkia's Dragon/Water moves and changes form.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/lustrous_orb.png",
+    "locations": [
+      "Spear Pillar Top (Hidden item)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 403,
+    "key": "griseous-orb",
+    "name": "Griseous Orb",
+    "description": "Boosts Giratina's Dragon/Ghost moves and changes form.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/griseous_orb.png",
+    "locations": [
+      "Spear Pillar Top (Hidden item)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 404,
+    "key": "sea-incense",
+    "name": "Sea Incense",
+    "description": "A hold item that slightly boosts Water-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/sea_incense.png",
+    "locations": [
+      "Route 32 (Item ball)",
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 405,
+    "key": "lax-incense",
+    "name": "Lax Incense",
+    "description": "A hold item that lowers the foe's accuracy.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/lax_incense.png",
+    "locations": [
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 406,
+    "key": "odd-incense",
+    "name": "Odd Incense",
+    "description": "A hold item that boosts Psychic- type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/odd_incense.png",
+    "locations": [
+      "Ruins of Alph Puzzle And Reward Chambers (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 407,
+    "key": "rock-incense",
+    "name": "Rock Incense",
+    "description": "A hold item that raises the power of Rock-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/rock_incense.png",
+    "locations": [
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 408,
+    "key": "full-incense",
+    "name": "Full Incense",
+    "description": "A held item that makes the holder move slower.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/full_incense.png",
+    "locations": [
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 409,
+    "key": "wave-incense",
+    "name": "Wave Incense",
+    "description": "A hold item that slightly boosts Water-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/wave_incense.png",
+    "locations": [
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 410,
+    "key": "rose-incense",
+    "name": "Rose Incense",
+    "description": "A hold item that raises the power of Grass-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/rose_incense.png",
+    "locations": [
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 411,
+    "key": "luck-incense",
+    "name": "Luck Incense",
+    "description": "Doubles money in battle if the holder takes part.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/luck_incense.png",
+    "locations": [
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 412,
+    "key": "pure-incense",
+    "name": "Pure Incense",
+    "description": "A hold item that helps repel wild Pokemon.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/pure_incense.png",
+    "locations": [
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 419,
+    "key": "power-weight",
+    "name": "Power Weight",
+    "description": "A hold item that promotes HP gain, but reduces Speed.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/power_weight.png",
+    "locations": [
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 420,
+    "key": "power-bracer",
+    "name": "Power Bracer",
+    "description": "A hold item that promotes Atk gain, but reduces Speed.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/power_bracer.png",
+    "locations": [
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 421,
+    "key": "power-belt",
+    "name": "Power Belt",
+    "description": "A hold item that promotes Def gain, but reduces Speed.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/power_belt.png",
+    "locations": [
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 422,
+    "key": "power-lens",
+    "name": "Power Lens",
+    "description": "Hold item that pro- motes Sp. Atk gain, but reduces Speed.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/power_lens.png",
+    "locations": [
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 423,
+    "key": "power-band",
+    "name": "Power Band",
+    "description": "Hold item that pro- motes Sp. Def gain, but reduces Speed.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/power_band.png",
+    "locations": [
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 424,
+    "key": "power-anklet",
+    "name": "Power Anklet",
+    "description": "A hold item that promotes Spd gain, but reduces Speed.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/power_anklet.png",
+    "locations": [
+      "Goldenrod City Department Store 3F (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 425,
+    "key": "silk-scarf",
+    "name": "Silk Scarf",
+    "description": "A hold item that raises the power of Normal-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/silk_scarf.png",
+    "locations": [
+      "Route 29 (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 426,
+    "key": "charcoal",
+    "name": "Charcoal",
+    "description": "A hold item that raises the power of Fire-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/charcoal.png",
+    "locations": [
+      "Azalea Town House 1 (Gift)",
+      "Vulpix (Wild held item (rare))",
+      "Ninetales (Wild held item (rare))",
+      "Torkoal (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 427,
+    "key": "mystic-water",
+    "name": "Mystic Water",
+    "description": "A hold item that raises the power of Water-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/mystic_water.png",
+    "locations": [
+      "Cherrygrove City (Gift)",
+      "Route 119 Weather Institute 2F (Gift Pokemon held item)",
+      "Lapras (Wild held item (common))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 428,
+    "key": "magnet",
+    "name": "Magnet",
+    "description": "A hold item that boosts Electric- type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/magnet.png",
+    "locations": [
+      "Route 37 (Gift)",
+      "Nosepass (Wild held item (rare))",
+      "Probopass (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 429,
+    "key": "miracle-seed",
+    "name": "Miracle Seed",
+    "description": "A hold item that raises the power of Grass-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/miracle_seed.png",
+    "locations": [
+      "Route 32 (Gift)",
+      "Maractus (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 430,
+    "key": "never-melt-ice",
+    "name": "Never-Melt Ice",
+    "description": "A hold item that raises the power of Ice-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/never_melt_ice.png",
+    "locations": [
+      "Ice Path B4F (Item ball)",
+      "Shoal Cave Low Tide Ice Room (Item ball)",
+      "Mt. Silver Snow (Hidden item)",
+      "Snover (Wild held item (rare))",
+      "Abomasnow (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 431,
+    "key": "black-belt",
+    "name": "Black Belt",
+    "description": "A hold item that boosts Fighting- type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/black_belt.png",
+    "locations": [
+      "Lake of Rage (Gift)",
+      "Makuhita (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 432,
+    "key": "poison-barb",
+    "name": "Poison Barb",
+    "description": "A hold item that raises the power of Poison-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/poison_barb.png",
+    "locations": [
+      "Route 32 (Gift)",
+      "Beedrill (Wild held item (rare))",
+      "Tentacool (Wild held item (rare))",
+      "Tentacruel (Wild held item (rare))",
+      "Qwilfish (Wild held item (rare))",
+      "Roselia (Wild held item (rare))",
+      "Budew (Wild held item (rare))",
+      "Roserade (Wild held item (rare))",
+      "Skorupi (Wild held item (rare))",
+      "Drapion (Wild held item (rare))",
+      "Venipede (Wild held item (rare))",
+      "Whirlipede (Wild held item (rare))",
+      "Scolipede (Wild held item (rare))",
+      "Mareanie (Wild held item (rare))",
+      "Toxapex (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 433,
+    "key": "soft-sand",
+    "name": "Soft Sand",
+    "description": "A hold item that raises the power of Ground-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/sand.png",
+    "locations": [
+      "Route 34 (Item ball)",
+      "Diglett (Wild held item (rare))",
+      "Dugtrio (Wild held item (rare))",
+      "Nincada (Wild held item (rare))",
+      "Trapinch (Wild held item (rare))",
+      "Stunfisk (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 434,
+    "key": "sharp-beak",
+    "name": "Sharp Beak",
+    "description": "A hold item that raises the power of Flying-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/sharp_beak.png",
+    "locations": [
+      "Route 40 (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 435,
+    "key": "twisted-spoon",
+    "name": "Twisted Spoon",
+    "description": "A hold item that boosts Psychic- type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/twisted_spoon.png",
+    "locations": [
+      "Abra (Wild held item (rare))",
+      "Kadabra (Wild held item (rare))",
+      "Alakazam (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 436,
+    "key": "silver-powder",
+    "name": "Silver Powder",
+    "description": "A hold item that raises the power of Bug-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/silver_powder.png",
+    "locations": [
+      "Butterfree (Wild held item (rare))",
+      "Volcarona (Wild held item (common))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 437,
+    "key": "hard-stone",
+    "name": "Hard Stone",
+    "description": "A hold item that raises the power of Rock-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/hard_stone.png",
+    "locations": [
+      "Route 110 Trick House End (Gift)",
+      "Route 36 (Gift)",
+      "Aron (Wild held item (rare))",
+      "Lairon (Wild held item (rare))",
+      "Aggron (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 438,
+    "key": "spell-tag",
+    "name": "Spell Tag",
+    "description": "A hold item that raises the power of Ghost-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/spell_tag.png",
+    "locations": [
+      "Blackthorn City (Gift)",
+      "Shuppet (Wild held item (rare))",
+      "Banette (Wild held item (rare))",
+      "Dusknoir (Wild held item (rare))",
+      "Yamask (Wild held item (rare))",
+      "Cofagrigus (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 439,
+    "key": "dragon-fang",
+    "name": "Dragon Fang",
+    "description": "A hold item that raises the power of Dragon-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/dragon_fang.png",
+    "locations": [
+      "Dragon's Den Cavern (Item ball)",
+      "Bagon (Wild held item (rare))",
+      "Shelgon (Wild held item (rare))",
+      "Salamence (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 440,
+    "key": "black-glasses",
+    "name": "Black Glasses",
+    "description": "A hold item that raises the power of Dark-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/black_glasses.png",
+    "locations": [
+      "Dark Cave North Side (Gift)",
+      "Sandile (Wild held item (rare))",
+      "Krokorok (Wild held item (rare))",
+      "Krookodile (Wild held item (common))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 441,
+    "key": "metal-coat",
+    "name": "Metal Coat",
+    "description": "A hold item that raises the power of Steel-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/metal_coat.png",
+    "locations": [
+      "Mahogany Town Shop (After Rocket Hideout event)",
+      "Magnemite (Wild held item (rare))",
+      "Magneton (Wild held item (rare))",
+      "Steelix (Wild held item (rare))",
+      "Skarmory (Wild held item (rare))",
+      "Beldum (Wild held item (rare))",
+      "Metang (Wild held item (rare))",
+      "Metagross (Wild held item (rare))",
+      "Magnezone (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 442,
+    "key": "choice-band",
+    "name": "Choice Band",
+    "description": "Boosts Attack, but allows the use of only one move.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/choice_band.png",
+    "locations": [
+      "Battle Tower (BP shop)",
+      "Route 27 (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 443,
+    "key": "choice-specs",
+    "name": "Choice Specs",
+    "description": "Boosts Sp. Atk, but allows the use of only one move.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/choice_specs.png",
+    "locations": [
+      "South Shore (Item ball)",
+      "Battle Tower (BP shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 444,
+    "key": "choice-scarf",
+    "name": "Choice Scarf",
+    "description": "Boosts Speed, but allows the use of only one move.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/choice_scarf.png",
+    "locations": [
+      "Route 26 (Item ball)",
+      "Battle Tower (BP shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 445,
+    "key": "flame-orb",
+    "name": "Flame Orb",
+    "description": "A bizarre orb that inflicts a burn on holder in battle.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/flame_orb.png",
+    "locations": [
+      "Battle Frontier Battle Pyramid Lobby (Mart)",
+      "Route 47 (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 446,
+    "key": "toxic-orb",
+    "name": "Toxic Orb",
+    "description": "A bizarre orb that badly poisons the holder in battle.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/toxic_orb.png",
+    "locations": [
+      "Battle Frontier Battle Pyramid Lobby (Mart)",
+      "Route 47 (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 447,
+    "key": "damp-rock",
+    "name": "Damp Rock",
+    "description": "Extends the length of Rain Dance if used by the holder.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/damp_rock.png",
+    "locations": [
+      "Union Cave B1F (Item ball)",
+      "Battle Tower (BP shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 448,
+    "key": "heat-rock",
+    "name": "Heat Rock",
+    "description": "Extends the length of Sunny Day if used by the holder.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/heat_rock.png",
+    "locations": [
+      "Mt Mortar Depths 1 (Item ball)",
+      "Battle Tower (BP shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 449,
+    "key": "smooth-rock",
+    "name": "Smooth Rock",
+    "description": "Extends the length of Sandstorm if used by the holder.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/smooth_rock.png",
+    "locations": [
+      "Mt Mortar B1F (Item ball)",
+      "Route 45 (Item ball)",
+      "Battle Tower (BP shop)",
+      "Vajra Desert West (Hidden Grotto rare item)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 450,
+    "key": "icy-rock",
+    "name": "Icy Rock",
+    "description": "Extends the length of cold weathers used by the holder.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/icy_rock.png",
+    "locations": [
+      "Snowtop Mountain B1F (Item ball)",
+      "Battle Tower (BP shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 451,
+    "key": "electric-seed",
+    "name": "Electric Seed",
+    "description": "Boosts Defense on Electric Terrain, but only one time.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/terrain_seed.png",
+    "locations": [
+      "Battle Tower (BP shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 452,
+    "key": "psychic-seed",
+    "name": "Psychic Seed",
+    "description": "Boosts Sp. Def. on Psychic Terrain, but only one time.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/terrain_seed.png",
+    "locations": [
+      "Battle Tower (BP shop)",
+      "Exeggcute (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 453,
+    "key": "misty-seed",
+    "name": "Misty Seed",
+    "description": "Boosts Sp. Def. on Misty Terrain, but only one time.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/terrain_seed.png",
+    "locations": [
+      "Battle Tower (BP shop)",
+      "Weezing (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 454,
+    "key": "grassy-seed",
+    "name": "Grassy Seed",
+    "description": "Boosts Defense on Grassy Terrain, but only one time.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/terrain_seed.png",
+    "locations": [
+      "Vajra Desert East (Item ball)",
+      "Battle Tower (BP shop)",
+      "Goldenrod City Flower Shop (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 455,
+    "key": "absorb-bulb",
+    "name": "Absorb Bulb",
+    "description": "Raises Sp. Atk if the holder is hit by a Water-type move.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/absorb_bulb.png",
+    "locations": [
+      "Tohjo Pass (Item ball)",
+      "Oddish (Wild held item (rare))",
+      "Gloom (Wild held item (rare))",
+      "Vileplume (Wild held item (rare))",
+      "Bellossom (Wild held item (rare))",
+      "Cottonee (Wild held item (rare))",
+      "Whimsicott (Wild held item (rare))",
+      "Petilil (Wild held item (rare))",
+      "Lilligant (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 456,
+    "key": "cell-battery",
+    "name": "Cell Battery",
+    "description": "Raises Attack if the holder is hit by an Electric move.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/cell_battery.png",
+    "locations": [
+      "Railway Cave 2F (Item ball)",
+      "Geodude (Wild held item (rare))",
+      "Graveler (Wild held item (rare))",
+      "Golem (Wild held item (common))",
+      "Charjabug (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 457,
+    "key": "luminous-moss",
+    "name": "Luminous Moss",
+    "description": "Raises Sp. Def if the holder is hit by a Water-type move.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/luminous_moss.png",
+    "locations": [
+      "Goldenrod City Flower Shop (Mart)",
+      "Corsola (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 458,
+    "key": "snowball",
+    "name": "Snowball",
+    "description": "Raises Atk if its holder is hit by an Ice-type move.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/snowball.png",
+    "locations": [
+      "Snowtop Mountain Outside (Item ball)",
+      "Vulpix (Wild held item (rare))",
+      "Ninetales (Wild held item (rare))",
+      "Snorunt (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 459,
+    "key": "bright-powder",
+    "name": "Bright Powder",
+    "description": "A hold item that casts a glare to reduce accuracy.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/bright_powder.png",
+    "locations": [
+      "Goldenrod City Radio Tower 4F (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 460,
+    "key": "white-herb",
+    "name": "White Herb",
+    "description": "A hold item that restores any lowered stat.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/in_battle_herb.png",
+    "locations": [
+      "Battle Frontier Battle Pyramid Lobby (Mart)",
+      "Route 43 (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 462,
+    "key": "quick-claw",
+    "name": "Quick Claw",
+    "description": "A hold item that occasionally allows the first strike.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/quick_claw.png",
+    "locations": [
+      "National Park Normal (Gift)",
+      "Meowth (Wild held item (rare))",
+      "Persian (Wild held item (rare))",
+      "Weavile (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 463,
+    "key": "soothe-bell",
+    "name": "Soothe Bell",
+    "description": "A hold item that calms spirits and fosters friendship.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/soothe_bell.png",
+    "locations": [
+      "National Park Normal (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 464,
+    "key": "mental-herb",
+    "name": "Mental Herb",
+    "description": "Snaps Pokemon out of move-binding effects.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/in_battle_herb.png",
+    "locations": [
+      "Sewaddle (Wild held item (rare))",
+      "Swadloon (Wild held item (rare))",
+      "Leavanny (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 465,
+    "key": "kings-rock",
+    "name": "King's Rock",
+    "description": "A hold item that may cause flinching when the foe is hit.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/kings_rock.png",
+    "locations": [
+      "Mt Mortar 1F North (Item ball)",
+      "Slowpoke Well B2F (Item ball)",
+      "Mahogany Town Shop (After Rocket Hideout event)",
+      "Poliwhirl (Wild held item (rare))",
+      "Poliwrath (Wild held item (rare))",
+      "Slowbro (Wild held item (rare))",
+      "Politoed (Wild held item (rare))",
+      "Slowking (Wild held item (rare))",
+      "Hariyama (Wild held item (rare))",
+      "Hawlucha (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 466,
+    "key": "amulet-coin",
+    "name": "Amulet Coin",
+    "description": "Doubles money in battle if the holder takes part.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/amulet_coin.png",
+    "locations": [
+      "Goldenrod City Department Store Basement (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 467,
+    "key": "cleanse-tag",
+    "name": "Cleanse Tag",
+    "description": "A hold item that helps repel wild Pokemon.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/cleanse_tag.png",
+    "locations": [
+      "Chimecho (Wild held item (rare))",
+      "Chingling (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 468,
+    "key": "smoke-ball",
+    "name": "Smoke Ball",
+    "description": "A hold item that assures fleeing from wild Pokemon.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/smoke_ball.png",
+    "locations": [
+      "Goldenrod City Underground Switches (Item ball)",
+      "Koffing (Wild held item (rare))",
+      "Weezing (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 469,
+    "key": "focus-band",
+    "name": "Focus Band",
+    "description": "A hold item that occasionally prevents fainting.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/focus_band.png",
+    "locations": [
+      "Machop (Wild held item (rare))",
+      "Machoke (Wild held item (rare))",
+      "Machamp (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 470,
+    "key": "lucky-egg",
+    "name": "Lucky Egg",
+    "description": "A hold item that boosts Exp. points earned in battle.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/lucky_egg.png",
+    "locations": [
+      "Kitakami Mountain (Item ball)",
+      "Battle Tower (BP shop)",
+      "Route 47 (Hidden Grotto rare item)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 471,
+    "key": "scope-lens",
+    "name": "Scope Lens",
+    "description": "A hold item that improves the critical-hit rate.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/scope_lens.png",
+    "locations": [
+      "Route 39 Barn (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 472,
+    "key": "leftovers",
+    "name": "Leftovers",
+    "description": "A hold item that gradually restores HP in battle.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/leftovers.png",
+    "locations": [
+      "Goldenrod City Underground Storage (Item ball)",
+      "Snorlax (Wild held item (common))",
+      "Munchlax (Wild held item (common))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 473,
+    "key": "shell-bell",
+    "name": "Shell Bell",
+    "description": "A hold item that restores HP upon striking the foe.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/shell_bell.png",
+    "locations": [
+      "Route 47 (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 474,
+    "key": "wide-lens",
+    "name": "Wide Lens",
+    "description": "A magnifying lens that boosts the accuracy of moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/wide_lens.png",
+    "locations": [
+      "Rinto Village (Mart)",
+      "Yanma (Wild held item (rare))",
+      "Sableye (Wild held item (rare))",
+      "Yanmega (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 475,
+    "key": "muscle-band",
+    "name": "Muscle Band",
+    "description": "A headband that boosts the power of physical moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/muscle_band.png",
+    "locations": [
+      "Mienfoo (Wild held item (rare))",
+      "Mienshao (Wild held item (common))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 476,
+    "key": "wise-glasses",
+    "name": "Wise Glasses",
+    "description": "A pair of glasses that ups the power of special moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/wise_glasses.png",
+    "locations": [
+      "Rinto Village (Mart)",
+      "Natu (Wild held item (rare))",
+      "Xatu (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 477,
+    "key": "expert-belt",
+    "name": "Expert Belt",
+    "description": "A belt that boosts the power of super effective moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/expert_belt.png",
+    "locations": [
+      "Rinto Village (Mart)",
+      "Meditite (Wild held item (rare))",
+      "Medicham (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 478,
+    "key": "light-clay",
+    "name": "Light Clay",
+    "description": "Extends the length of barrier moves used by the holder.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/light_clay.png",
+    "locations": [
+      "Baltoy (Wild held item (rare))",
+      "Claydol (Wild held item (rare))",
+      "Golett (Wild held item (rare))",
+      "Golurk (Wild held item (rare))",
+      "Goldenrod Shore (Hidden Grotto rare item)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 479,
+    "key": "life-orb",
+    "name": "Life Orb",
+    "description": "Boosts move power but holder loses HP with each attack.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/life_orb.png",
+    "locations": [
+      "Tin Tower 5F (Item ball)",
+      "Whirl Islands B1F (Item ball)",
+      "Battle Frontier Battle Pyramid Lobby (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 480,
+    "key": "power-herb",
+    "name": "Power Herb",
+    "description": "Allows immediate use of a move that charges first.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/power_herb.png",
+    "locations": [
+      "Battle Frontier Battle Pyramid Lobby (Mart)",
+      "Route 43 (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 481,
+    "key": "focus-sash",
+    "name": "Focus Sash",
+    "description": "If the holder has full HP, it endures KO hits with 1 HP.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/focus_sash.png",
+    "locations": [
+      "Battle Frontier Battle Pyramid Lobby (Mart)",
+      "Kitakami Temple Training Room (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 482,
+    "key": "zoom-lens",
+    "name": "Zoom Lens",
+    "description": "If the holder moves after the foe, it'll boost accuracy.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/zoom_lens.png",
+    "locations": [
+      "Mt. Silver 1F Item Room (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 483,
+    "key": "metronome",
+    "name": "Metronome",
+    "description": "A held item that boosts a move used consecutively.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/metronome.png",
+    "locations": [
+      "Kitakami Mountain 2F (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 484,
+    "key": "iron-ball",
+    "name": "Iron Ball",
+    "description": "Cuts Speed and becomes vulnerable to Ground moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/iron_ball.png",
+    "locations": [
+      "Kitakami Houses (Gift Pokemon held item)",
+      "Mawile (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 485,
+    "key": "lagging-tail",
+    "name": "Lagging Tail",
+    "description": "A held item that makes the holder move slower.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/lagging_tail.png",
+    "locations": [
+      "Slowpoke (Wild held item (rare))",
+      "Lickitung (Wild held item (rare))",
+      "Lickilicky (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 486,
+    "key": "destiny-knot",
+    "name": "Destiny Knot",
+    "description": "If the holder falls in love, the foe does too.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/destiny_knot.png",
+    "locations": [
+      "Route 34 Day Care (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 487,
+    "key": "black-sludge",
+    "name": "Black Sludge",
+    "description": "Restores HP for Poison-types. Damages all others.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/black_sludge.png",
+    "locations": [
+      "Battle Frontier Battle Pyramid Lobby (Mart)",
+      "Grimer (Wild held item (rare))",
+      "Muk (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 488,
+    "key": "grip-claw",
+    "name": "Grip Claw",
+    "description": "A held item that extends binding moves like Wrap.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/grip_claw.png",
+    "locations": [
+      "Sandshrew (Wild held item (rare))",
+      "Sandslash (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 489,
+    "key": "sticky-barb",
+    "name": "Sticky Barb",
+    "description": "Damages the holder each turn. May latch on to foes.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/sticky_barb.png",
+    "locations": [
+      "Cacnea (Wild held item (rare))",
+      "Cacturne (Wild held item (rare))",
+      "Ferroseed (Wild held item (rare))",
+      "Ferrothorn (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 490,
+    "key": "shed-shell",
+    "name": "Shed Shell",
+    "description": "Allows the holder to switch out without fail.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/shed_shell.png",
+    "locations": [
+      "Scraggy (Wild held item (rare))",
+      "Scrafty (Wild held item (rare))",
+      "Goomy (Wild held item (rare))",
+      "Sliggoo (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 491,
+    "key": "big-root",
+    "name": "Big Root",
+    "description": "A held item that ups the power of HP-stealing moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/big_root.png",
+    "locations": [
+      "Meteor Island (Item ball)",
+      "Lileep (Wild held item (rare))",
+      "Cradily (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 492,
+    "key": "razor-claw",
+    "name": "Razor Claw",
+    "description": "A hooked claw that ups the holder's critical-hit ratio.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/razor_claw.png",
+    "locations": [
+      "Route 41 (Item ball)",
+      "Sneasel (Wild held item (rare))",
+      "Jangmo-o (Wild held item (rare))",
+      "Hakamo-o (Wild held item (rare))",
+      "Kommo-o (Wild held item (common))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 493,
+    "key": "razor-fang",
+    "name": "Razor Fang",
+    "description": "A hold item that may cause flinching when the foe is hit.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/razor_fang.png",
+    "locations": [
+      "Route 47 (Item ball)",
+      "Gligar (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 494,
+    "key": "eviolite",
+    "name": "Eviolite",
+    "description": "Raises the Def and Sp. Def of Pokemon that can evolve.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/eviolite.png",
+    "locations": [
+      "Goldenrod City Radio Tower 2F (Buena's Password prize)",
+      "Lake of Rage (Hidden Grotto rare item)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 495,
+    "key": "float-stone",
+    "name": "Float Stone",
+    "description": "It's so light that when held, it halves a Pokemon's weight.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/float_stone.png",
+    "locations": [
+      "Tohjo Pass (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 496,
+    "key": "rocky-helmet",
+    "name": "Rocky Helmet",
+    "description": "Hurts the foe if they touch its holder.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/rocky_helmet.png",
+    "locations": [
+      "Gate Route 39North (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 497,
+    "key": "air-balloon",
+    "name": "Air Balloon",
+    "description": "Makes the holder float but bursts if hit by an attack.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/air_balloon.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Mart)",
+      "Route 31 (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 498,
+    "key": "red-card",
+    "name": "Red Card",
+    "description": "Switches out the foe if they hit the holder.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/red_card.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 499,
+    "key": "ring-target",
+    "name": "Ring Target",
+    "description": "Moves that usually have no effect will hit the holder.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/ring_target.png",
+    "locations": [
+      "Rinto Village (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 500,
+    "key": "binding-band",
+    "name": "Binding Band",
+    "description": "Increases the power of binding moves when held.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/binding_band.png",
+    "locations": [
+      "Rinto Village (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 501,
+    "key": "eject-button",
+    "name": "Eject Button",
+    "description": "Switches out the user if they're hit by the foe.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/eject_button.png",
+    "locations": [
+      "Rinto Village (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 502,
+    "key": "weakness-policy",
+    "name": "Weakness Policy",
+    "description": "If hit by a super- effective move, ups Atk and Sp. Atk.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/weakness_policy.png",
+    "locations": [
+      "Victory Road B2F (Item ball)",
+      "Battle Tower (BP shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 503,
+    "key": "assault-vest",
+    "name": "Assault Vest",
+    "description": "Raises Sp. Def but prevents the use of status moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/assault_vest.png",
+    "locations": [
+      "Rocket Hideout B3F (Item ball)",
+      "Battle Frontier Battle Pyramid Lobby (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 504,
+    "key": "safety-goggles",
+    "name": "Safety Goggles",
+    "description": "Protect from weather damage and powder moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/safety_goggles.png",
+    "locations": [
+      "Vajra Desert West (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 505,
+    "key": "adrenaline-orb",
+    "name": "Adrenaline Orb",
+    "description": "This orb boosts Speed if the holder is intimidated.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/adrenaline_orb.png",
+    "locations": [
+      "Blackthorn City (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 506,
+    "key": "terrain-extender",
+    "name": "Terrain Extender",
+    "description": "Extends the length of the active battle terrain.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/terrain_extender.png",
+    "locations": [
+      "Route 32 (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 507,
+    "key": "protective-pads",
+    "name": "Protective Pads",
+    "description": "Guard the holder from contact move effects.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/protective_pads.png",
+    "locations": [
+      "Kitakami Border (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 508,
+    "key": "throat-spray",
+    "name": "Throat Spray",
+    "description": "Raises Sp. Atk. if the holder uses a sound-based move.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/throat_spray.png",
+    "locations": [
+      "Toxel (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 509,
+    "key": "eject-pack",
+    "name": "Eject Pack",
+    "description": "Forces the user to switch if its stats are lowered.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/eject_pack.png",
+    "locations": [
+      "Mt. Silver 1F Waterfall Room (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 510,
+    "key": "heavy-duty-boots",
+    "name": "Heavy-Duty Boots",
+    "description": "Boots that prevent effects of traps set in the field.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/heavy_duty_boots.png",
+    "locations": [
+      "Ice Path Depths (Item ball)",
+      "Battle Tower (BP shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 511,
+    "key": "blunder-policy",
+    "name": "Blunder Policy",
+    "description": "Raises Speed if the user misses due to Accuracy.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/blunder_policy.png",
+    "locations": [
+      "Route 50 (Item ball)",
+      "Battle Tower (BP shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 512,
+    "key": "room-service",
+    "name": "Room Service",
+    "description": "Lowers Speed if Trick Room is active.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/room_service.png",
+    "locations": [
+      "Route 42 (Item ball)",
+      "Battle Tower (BP shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 513,
+    "key": "utility-umbrella",
+    "name": "Utility Umbrella",
+    "description": "An umbrella that protects from weather effects.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/utility_umbrella.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Mart)",
+      "Olivine City (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 697,
+    "key": "gracidea",
+    "name": "Gracidea",
+    "description": "Bouquets made with it are offered as a token of gratitude.",
+    "category": "Key Items",
+    "sprite": "assets/items/soulgold/gracidea.png",
+    "locations": [
+      "Goldenrod Flower Shop by showing Shaymin ()"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 711,
+    "key": "old-rod",
+    "name": "Old Rod",
+    "description": "Use by any body of water to fish for wild Pokemon.",
+    "category": "Key Items",
+    "sprite": "assets/items/soulgold/old_rod.png",
+    "locations": [
+      "Route 32 Pokemon Center (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 712,
+    "key": "good-rod",
+    "name": "Good Rod",
+    "description": "A decent fishing rod for catching wild Pokemon.",
+    "category": "Key Items",
+    "sprite": "assets/items/soulgold/good_rod.png",
+    "locations": [
+      "Olivine City House 3 (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 713,
+    "key": "super-rod",
+    "name": "Super Rod",
+    "description": "The best fishing rod for catching wild Pokemon.",
+    "category": "Key Items",
+    "sprite": "assets/items/soulgold/super_rod.png",
+    "locations": [
+      "Blackthorn City (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 714,
+    "key": "dowsing-machine",
+    "name": "Dowsing Machine",
+    "description": "A device that signals an invisible item by sound.",
+    "category": "Key Items",
+    "sprite": "assets/items/soulgold/dowsing_machine.png",
+    "locations": [
+      "Ecruteak City House 4 (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 716,
+    "key": "vs-seeker",
+    "name": "Vs. Seeker",
+    "description": "A rechargeable unit that resets the route Trainers.",
+    "category": "Key Items",
+    "sprite": "assets/items/soulgold/vs_seeker.png",
+    "locations": [
+      "Goldenrod City Radio Tower 1F (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 720,
+    "key": "coin-case",
+    "name": "Coin Case",
+    "description": "A case that holds up to 9,999 Coins.",
+    "category": "Key Items",
+    "sprite": "assets/items/soulgold/coin_case.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 760,
+    "key": "ability-shield",
+    "name": "Ability Shield",
+    "description": "Ability changes are prevented for this items's holder.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/ability_shield.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 761,
+    "key": "clear-amulet",
+    "name": "Clear Amulet",
+    "description": "Stat lowering is prevented for this items's holder.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/clear_amulet.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 762,
+    "key": "punching-glove",
+    "name": "Punching Glove",
+    "description": "Powers up punching moves and removes their contact.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/punching_glove.png",
+    "locations": [
+      "Goldenrod City Department Store Basement (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 763,
+    "key": "covert-cloak",
+    "name": "Covert Cloak",
+    "description": "Protects holder from additional effects of moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/covert_cloak.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 764,
+    "key": "loaded-dice",
+    "name": "Loaded Dice",
+    "description": "Rolls high numbers. Multihit strikes hit more times.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/loaded_dice.png",
+    "locations": [
+      "Goldenrod Shore (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 765,
+    "key": "auspicious-armor",
+    "name": "Auspicious Armor",
+    "description": "Armor inhabited by auspicious wishes. Causes evolution.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/auspicious_armor.png",
+    "locations": [
+      "Mt Mortar 1F North (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 766,
+    "key": "booster-energy",
+    "name": "Booster Energy",
+    "description": "Encapsuled energy ups Pokemon with certain Abilities.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/booster_energy.png",
+    "locations": [
+      "Meteor Island (Item ball)",
+      "Great Tusk (Wild held item (rare))",
+      "Scream Tail (Wild held item (rare))",
+      "Brute Bonnet (Wild held item (rare))",
+      "Flutter Mane (Wild held item (rare))",
+      "Slither Wing (Wild held item (rare))",
+      "Sandy Shocks (Wild held item (rare))",
+      "Iron Treads (Wild held item (rare))",
+      "Iron Bundle (Wild held item (rare))",
+      "Iron Hands (Wild held item (rare))",
+      "Iron Jugulis (Wild held item (rare))",
+      "Iron Moth (Wild held item (rare))",
+      "Iron Thorns (Wild held item (rare))",
+      "Roaring Moon (Wild held item (rare))",
+      "Iron Valiant (Wild held item (rare))",
+      "Walking Wake (Wild held item (rare))",
+      "Iron Leaves (Wild held item (rare))",
+      "Gouging Fire (Wild held item (rare))",
+      "Raging Bolt (Wild held item (rare))",
+      "Iron Boulder (Wild held item (rare))",
+      "Iron Crown (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 769,
+    "key": "leaders-crest",
+    "name": "Leader's Crest",
+    "description": "A shard of an old blade of some sort. Held by Bisharp.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/leaders_crest.png",
+    "locations": [
+      "Azalea Town (Item ball)",
+      "Bisharp (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 770,
+    "key": "malicious-armor",
+    "name": "Malicious Armor",
+    "description": "Armor inhabited by malicious will. Causes evolution.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/malicious_armor.png",
+    "locations": [
+      "Burned Tower B1F (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 771,
+    "key": "mirror-herb",
+    "name": "Mirror Herb",
+    "description": "Mirrors an enemy's stat increases but only once.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/mirror_herb.png",
+    "locations": [
+      "Southern Passage (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 772,
+    "key": "scroll-of-darkness",
+    "name": "Darkness Scroll",
+    "description": "A peculiar scroll with secrets of the dark path.",
+    "category": "Key Items",
+    "sprite": "assets/items/soulgold/scroll_of_darkness.png",
+    "locations": [
+      "Goldenrod Battle Arcade (Shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 773,
+    "key": "scroll-of-waters",
+    "name": "Water Scroll",
+    "description": "A peculiar scroll with secrets of the water path.",
+    "category": "Key Items",
+    "sprite": "assets/items/soulgold/scroll_of_waters.png",
+    "locations": [
+      "Goldenrod Battle Arcade (Shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 794,
+    "key": "adamant-crystal",
+    "name": "Adamant Crystal",
+    "description": "A large, glowing gem that lets Dialga change form.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/adamant_crystal.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 795,
+    "key": "griseous-core",
+    "name": "Griseous Core",
+    "description": "A large, glowing gem that lets Giratina change form.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/griseous_core.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 796,
+    "key": "lustrous-globe",
+    "name": "Lustrous Globe",
+    "description": "A large, glowing gem that lets Palkia change form.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/lustrous_globe.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 797,
+    "key": "black-augurite",
+    "name": "Black Augurite",
+    "description": "A black stone that makes some Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/black_augurite.png",
+    "locations": [
+      "Lake of Rage (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 798,
+    "key": "linking-cord",
+    "name": "Linking Cord",
+    "description": "A mysterious string that makes some Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/linking_cord.png",
+    "locations": [
+      "Route 38 (Item ball)",
+      "Indigo Plateau Pokemon Center (Mart)",
+      "Goldenrod City Game Corner (Bought)",
+      "Safari Zone Gate (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 799,
+    "key": "peat-block",
+    "name": "Peat Block",
+    "description": "A block of material that makes some Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/peat_block.png",
+    "locations": [
+      "Dark Cave North Side (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 800,
+    "key": "berserk-gene",
+    "name": "Berserk Gene",
+    "description": "Sharply boosts Attack, but causes lasting confusion.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/berserk_gene.png",
+    "locations": [
+      "Ruins of Alph Puzzle And Reward Chambers (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 801,
+    "key": "fairy-feather",
+    "name": "Fairy Feather",
+    "description": "A hold item that raises the power of Fairy-type moves.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/fairy_feather.png",
+    "locations": [
+      "Nameless Cave B2F (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 802,
+    "key": "syrupy-apple",
+    "name": "Syrupy Apple",
+    "description": "A very syrupy apple that makes certain Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/syrupy_apple.png",
+    "locations": [
+      "Route 40 House 5 (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 803,
+    "key": "unremarkable-teacup",
+    "name": "Unremarkable Teacup",
+    "description": "A cracked teacup that makes certain Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/unremarkable_teacup.png",
+    "locations": [
+      "Olivine City (Mart)",
+      "Route 35 (Hidden Grotto rare item)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 805,
+    "key": "cornerstone-mask",
+    "name": "Cornerstone Mask",
+    "description": "Allows Ogerpon to wield the Rock- type in battle.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/cornerstone_mask.png",
+    "locations": [
+      "Kitakami Temple Storage (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 806,
+    "key": "wellspring-mask",
+    "name": "Wellspring Mask",
+    "description": "Allows Ogerpon to wield the Water- type in battle.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/wellspring_mask.png",
+    "locations": [
+      "Kitakami Temple Storage (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 807,
+    "key": "hearthflame-mask",
+    "name": "Hearthflame Mask",
+    "description": "Allows Ogerpon to wield the Fire- type in battle.",
+    "category": "Battle Items",
+    "sprite": "assets/items/soulgold/hearthflame_mask.png",
+    "locations": [
+      "Kitakami Temple Storage (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 816,
+    "key": "metal-alloy",
+    "name": "Metal Alloy",
+    "description": "A peculiar metal that makes certain Pokemon evolve.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/metal_alloy.png",
+    "locations": [
+      "Duraludon (Wild held item (rare))"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 891,
+    "key": "hp-up-ex",
+    "name": "HP Up EX",
+    "description": "Maximizes the effort value of a Pokemon's HP.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/hp_up.png",
+    "locations": [
+      "Battle Tower (BP shop)",
+      "Goldenrod Battle Arcade (Shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 892,
+    "key": "protein-ex",
+    "name": "Protein EX",
+    "description": "Maximizes the effort value of a Pokemon's Attack.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/vitamin.png",
+    "locations": [
+      "Nameless Cave B1F (Item ball)",
+      "Kitakami Well B1F (Item ball)",
+      "Ruins of Alph Words Room 2 (Item ball)",
+      "Battle Tower (BP shop)",
+      "Goldenrod Battle Arcade (Shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 893,
+    "key": "iron-ex",
+    "name": "Iron EX",
+    "description": "Maximizes the effort value of a Pokemon's Defense.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/vitamin.png",
+    "locations": [
+      "Battle Tower (BP shop)",
+      "Goldenrod Battle Arcade (Shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 894,
+    "key": "calcium-ex",
+    "name": "Calcium EX",
+    "description": "Maximizes the effort value of a Pokemon's Sp. Atk.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/vitamin.png",
+    "locations": [
+      "Mt. Silver 1F Waterfall Room (Item ball)",
+      "Tin Tower 9F (Item ball)",
+      "Victory Road 1F (Item ball)",
+      "Battle Tower (BP shop)",
+      "Goldenrod Battle Arcade (Shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 895,
+    "key": "zinc-ex",
+    "name": "Zinc EX",
+    "description": "Maximizes the effort value of a Pokemon's Sp. Def.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/vitamin.png",
+    "locations": [
+      "Nameless Cave B1F (Item ball)",
+      "Ecruteak City (Item ball)",
+      "Battle Tower (BP shop)",
+      "Goldenrod Battle Arcade (Shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 896,
+    "key": "carbos-ex",
+    "name": "Carbos EX",
+    "description": "Maximizes the effort value of a Pokemon's Speed.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/vitamin.png",
+    "locations": [
+      "Mt. Silver 1F Waterfall Room (Item ball)",
+      "Route 27 (Item ball)",
+      "Vajra Desert East (Item ball)",
+      "Battle Tower (BP shop)",
+      "Goldenrod Battle Arcade (Shop)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 897,
+    "key": "grimy-herb",
+    "name": "Grimy Herb",
+    "description": "An herb that lowers one Pokemon's Attack IV by one.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/mint.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 898,
+    "key": "goopy-herb",
+    "name": "Goopy Herb",
+    "description": "An herb that lowers one Pokemon's Speed IV by one.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/mint.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 901,
+    "key": "normalite",
+    "name": "Normalite",
+    "description": "Allows certain Pokemon to Mega Evolve into Normal -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/pidgeotite.png",
+    "locations": [
+      "Tohjo Falls Cavern (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 902,
+    "key": "firetite",
+    "name": "Firetite",
+    "description": "Allows certain Pokemon to Mega Evolve into Fire -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/charizardite_y.png",
+    "locations": [
+      "Mt Mortar Depths 1 (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 903,
+    "key": "watertite",
+    "name": "Watertite",
+    "description": "Allows certain Pokemon to Mega Evolve into Water -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/blastoisinite.png",
+    "locations": [
+      "Whirl Islands B1F (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 904,
+    "key": "electrite",
+    "name": "Electrite",
+    "description": "Allows certain Pokemon to Mega Evolve into Electric -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/ampharosite.png",
+    "locations": [
+      "Railway Cave 2F (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 905,
+    "key": "grasstite",
+    "name": "Grasstite",
+    "description": "Allows certain Pokemon to Mega Evolve into Grass -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/venusaurite.png",
+    "locations": [
+      "Deep Ilex Forest (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 906,
+    "key": "icetite",
+    "name": "Icetite",
+    "description": "Allows certain Pokemon to Mega Evolve into Ice -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/glalitite.png",
+    "locations": [
+      "Ice Path Depths (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 907,
+    "key": "fightite",
+    "name": "Fightite",
+    "description": "Allows certain Pokemon to Mega Evolve into Fighting -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/medichamite.png",
+    "locations": [
+      "Dark Cave North Side (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 908,
+    "key": "poisontite",
+    "name": "Poisontite",
+    "description": "Allows certain Pokemon to Mega Evolve into Poison -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/dragalgite.png",
+    "locations": [
+      "Lost Woods (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 909,
+    "key": "groundite",
+    "name": "Groundite",
+    "description": "Allows certain Pokemon to Mega Evolve into Ground -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/garchompite.png",
+    "locations": [
+      "Union Cave B2F (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 910,
+    "key": "flyingite",
+    "name": "Flyingite",
+    "description": "Allows certain Pokemon to Mega Evolve into Flying -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/staraptite.png",
+    "locations": [
+      "Route 47 (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 911,
+    "key": "psychite",
+    "name": "Psychite",
+    "description": "Allows certain Pokemon to Mega Evolve into Psychic -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/alakazite.png",
+    "locations": [
+      "Mt Mortar 2F (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 912,
+    "key": "bugtite",
+    "name": "Bugtite",
+    "description": "Allows certain Pokemon to Mega Evolve into Bug -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/beedrillite.png",
+    "locations": [
+      "National Park Normal (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 913,
+    "key": "rocktite",
+    "name": "Rocktite",
+    "description": "Allows certain Pokemon to Mega Evolve into Rock -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/aerodactylite.png",
+    "locations": [
+      "Route 46 (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 914,
+    "key": "ghostite",
+    "name": "Ghostite",
+    "description": "Allows certain Pokemon to Mega Evolve into Ghost -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/gengarite.png",
+    "locations": [
+      "Sprout Tower Basement (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 915,
+    "key": "dragotite",
+    "name": "Dragotite",
+    "description": "Allows certain Pokemon to Mega Evolve into Dragon -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/dragoninite.png",
+    "locations": [
+      "Dragon's Den Cavern (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 916,
+    "key": "darktite",
+    "name": "Darktite",
+    "description": "Allows certain Pokemon to Mega Evolve into Dark -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/houndoominite.png",
+    "locations": [
+      "Rocket Hideout B3F (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 917,
+    "key": "steeltite",
+    "name": "Steeltite",
+    "description": "Allows certain Pokemon to Mega Evolve into Steel -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/steelixite.png",
+    "locations": [
+      "Victory Road B1F (Item ball)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 918,
+    "key": "fairytite",
+    "name": "Fairytite",
+    "description": "Allows certain Pokemon to Mega Evolve into Fairy -type form.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/gardevoirite.png",
+    "locations": [
+      "Route 30 Mr Pokemons House (Gift)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 919,
+    "key": "bondstone",
+    "name": "Bondstone",
+    "description": "A stone that lets your partner Mega Evolve.",
+    "category": "Megastones",
+    "sprite": "assets/items/soulgold/audinite.png",
+    "locations": [
+      "Given by Elm during the story after 8th badge. ()"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 926,
+    "key": "withered-herb",
+    "name": "Withered Herb",
+    "description": "An herb that lowers one Pokemon's HP IV by one.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/mint.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 927,
+    "key": "brittle-herb",
+    "name": "Brittle Herb",
+    "description": "An herb that lowers one Pokemon's Defense IV by one.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/mint.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 928,
+    "key": "dull-herb",
+    "name": "Dull Herb",
+    "description": "An herb that lowers one Pokemon's Sp. Atk IV by one.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/mint.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 929,
+    "key": "soggy-herb",
+    "name": "Soggy Herb",
+    "description": "An herb that lowers one Pokemon's Sp. Def IV by one.",
+    "category": "Items",
+    "sprite": "assets/items/soulgold/mint.png",
+    "locations": [
+      "Goldenrod City Underground Tunnel (Mart)"
+    ],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 items export",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300000,
+    "key": "oran-berry",
+    "name": "Oran Berry",
+    "description": "A hold item that restores 10 HP in battle.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/oran_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300001,
+    "key": "pecha-berry",
+    "name": "Pecha Berry",
+    "description": "A hold item that heals poisoning in battle.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/pecha_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300002,
+    "key": "berry-juice",
+    "name": "Berry Juice",
+    "description": "A 100% pure juice that restores HP by 20 points.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/berry_juice.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300003,
+    "key": "sitrus-berry",
+    "name": "Sitrus Berry",
+    "description": "A hold item that restores the user's HP a little.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/sitrus_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300004,
+    "key": "salac-berry",
+    "name": "Salac Berry",
+    "description": "A hold item that raises Speed in a pinch.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/salac_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300005,
+    "key": "chesto-berry",
+    "name": "Chesto Berry",
+    "description": "A hold item that awakens Pokemon in battle.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/chesto_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300006,
+    "key": "chople-berry",
+    "name": "Chople Berry",
+    "description": "A hold item that weakens a Fighting move if weak to it.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/chople_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300007,
+    "key": "shuca-berry",
+    "name": "Shuca Berry",
+    "description": "A hold item that weakens a Ground move if weak to it.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/shuca_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300008,
+    "key": "yache-berry",
+    "name": "Yache Berry",
+    "description": "A hold item that weakens a Ice move if weak to it.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/yache_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300009,
+    "key": "normal-gem",
+    "name": "Normal Gem",
+    "description": "Increases the power of Normal Type moves.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/type_gem.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300010,
+    "key": "water-gem",
+    "name": "Water Gem",
+    "description": "Increases the power of Water Type moves.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/type_gem.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300011,
+    "key": "fire-gem",
+    "name": "Fire Gem",
+    "description": "Increases the power of Fire Type moves.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/type_gem.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300012,
+    "key": "psychic-gem",
+    "name": "Psychic Gem",
+    "description": "Increases the power of Psychic Type moves.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/type_gem.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300013,
+    "key": "electric-gem",
+    "name": "Electric Gem",
+    "description": "Increases the power of Electric Type moves.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/type_gem.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300014,
+    "key": "dark-gem",
+    "name": "Dark Gem",
+    "description": "Increases the power of Dark Type moves.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/type_gem.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300015,
+    "key": "occa-berry",
+    "name": "Occa Berry",
+    "description": "A hold item that weakens a Fire move if weak to it.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/occa_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300016,
+    "key": "payapa-berry",
+    "name": "Payapa Berry",
+    "description": "A hold item that weakens a Psychic move if weak to it.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/payapa_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300017,
+    "key": "charti-berry",
+    "name": "Charti Berry",
+    "description": "A hold item that weakens a Rock move if weak to it.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/charti_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300018,
+    "key": "grass-gem",
+    "name": "Grass Gem",
+    "description": "Increases the power of Grass Type moves.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/type_gem.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300019,
+    "key": "dragon-gem",
+    "name": "Dragon Gem",
+    "description": "Increases the power of Dragon Type moves.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/type_gem.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300020,
+    "key": "rindo-berry",
+    "name": "Rindo Berry",
+    "description": "A hold item that weakens a Grass move if weak to it.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/rindo_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300021,
+    "key": "colbur-berry",
+    "name": "Colbur Berry",
+    "description": "A hold item that weakens a Dark move if weak to it.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/colbur_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300022,
+    "key": "wiki-berry",
+    "name": "Wiki Berry",
+    "description": "A hold item that restores HP but may confuse.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/wiki_berry.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300023,
+    "key": "rusted-shield",
+    "name": "Rusted Shield",
+    "description": "A rusty shield. A hero used it to halt a disaster.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/rusted_shield.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  },
+  {
+    "id": 300024,
+    "key": "blue-orb",
+    "name": "Blue Orb",
+    "description": "A blue, glowing orb said to contain an ancient power.",
+    "category": "Held Item",
+    "sprite": "assets/items/soulgold/blue_orb.png",
+    "locations": [],
+    "costs": [],
+    "move": null,
+    "fallbackDefinition": false,
+    "source": "SoulGold v1.1.2 trainer export held-item definition",
+    "_provenance": {
+      "origin": "custom",
+      "overriddenFields": [
+        "id",
+        "key",
+        "name",
+        "description",
+        "category",
+        "sprite",
+        "locations",
+        "costs",
+        "move",
+        "fallbackDefinition",
+        "source"
+      ]
+    }
+  }
+]

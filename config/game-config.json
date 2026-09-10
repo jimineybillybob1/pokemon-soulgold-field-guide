@@ -1,0 +1,105 @@
+{
+  "name": "Pokémon SoulGold",
+  "shortName": "Pokémon SoulGold",
+  "version": "1.1.2",
+  "region": "Johto",
+  "storageNamespace": "pokemon-soulgold-field-guide",
+  "saveFormat": "pokemon-soulgold-field-guide-save",
+  "description": "An offline-friendly field guide for Pokémon SoulGold.",
+  "branding": {
+    "logo": "assets/art/pwa-icon-512.png",
+    "hero": "assets/art/soulgold-hero-v2.png",
+    "icon": "assets/art/pwa-icon-512.png",
+    "primary": "#c81d25",
+    "accent": "#ffd84d"
+  },
+  "features": {
+    "moves": true,
+    "items": true,
+    "locations": true,
+    "legendaries": true,
+    "eggs": true,
+    "teamBuilder": true,
+    "futureTeam": true,
+    "favorites": true,
+    "battles": true,
+    "trainerProfile": true,
+    "badges": true,
+    "maps": true,
+    "cloudSync": false
+  },
+  "badges": [
+    {
+      "id": "zephyr",
+      "name": "Zephyr Badge",
+      "region": "Johto",
+      "leader": "Falkner",
+      "location": "Violet City Gym",
+      "image": "assets/badges/soulgold/zephyr.png"
+    },
+    {
+      "id": "hive",
+      "name": "Hive Badge",
+      "region": "Johto",
+      "leader": "Bugsy",
+      "location": "Azalea Town Gym",
+      "image": "assets/badges/soulgold/hive.png"
+    },
+    {
+      "id": "plain",
+      "name": "Plain Badge",
+      "region": "Johto",
+      "leader": "Whitney",
+      "location": "Goldenrod City Gym",
+      "image": "assets/badges/soulgold/plain.png"
+    },
+    {
+      "id": "fog",
+      "name": "Fog Badge",
+      "region": "Johto",
+      "leader": "Morty",
+      "location": "Ecruteak City Gym",
+      "image": "assets/badges/soulgold/fog.png"
+    },
+    {
+      "id": "storm",
+      "name": "Storm Badge",
+      "region": "Johto",
+      "leader": "Chuck",
+      "location": "Cianwood Gym",
+      "image": "assets/badges/soulgold/storm.png"
+    },
+    {
+      "id": "mineral",
+      "name": "Mineral Badge",
+      "region": "Johto",
+      "leader": "Jasmine",
+      "location": "Olivine City Gym",
+      "image": "assets/badges/soulgold/mineral.png"
+    },
+    {
+      "id": "glacier",
+      "name": "Glacier Badge",
+      "region": "Johto",
+      "leader": "Pryce",
+      "location": "Mahogany Town Gym",
+      "image": "assets/badges/soulgold/glacier.png"
+    },
+    {
+      "id": "rising",
+      "name": "Rising Badge",
+      "region": "Johto",
+      "leader": "Clair",
+      "location": "Blackthorn City Gym",
+      "image": "assets/badges/soulgold/rising.png"
+    }
+  ],
+  "maps": {
+    "label": "SoulGold World Map",
+    "image": "assets/maps/soulgold-world-map.png",
+    "url": "",
+    "safariUrl": "",
+    "note": "Official v1.1.2 world-map asset. Location markers are intentionally omitted because the source does not provide audited guide coordinates."
+  },
+  "sources": []
+}

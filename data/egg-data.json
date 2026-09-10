@@ -1,0 +1,21 @@
+[
+  {
+    "id": "odd-egg",
+    "title": "Odd Egg",
+    "category": "One-time Gift Egg",
+    "location": "Goldenrod City",
+    "cost": "One-time gift",
+    "unlock": "Reach the documented Odd Egg gift in Goldenrod City",
+    "method": "Each listed Pokémon has a 1/7 chance.",
+    "note": "Pool and odds are taken from the v1.1.2 per-form location export.",
+    "pokemon": [
+      "Feebas",
+      "Bagon",
+      "Gible",
+      "Riolu",
+      "Zorua Hisui",
+      "Goomy",
+      "Jangmo-o"
+    ]
+  }
+]

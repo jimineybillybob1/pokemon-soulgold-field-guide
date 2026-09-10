@@ -1,0 +1,31 @@
+:root {
+  --bg: #edf6ff;
+  --panel: #ffffff;
+  --panel2: #dcecff;
+  --text: #071b55;
+  --muted: #526b91;
+  --line: rgba(7, 27, 85, 0.13);
+  --red: #c81d25;
+  --deep: #78151e;
+  --gold: #ffd84d;
+  --shadow: 0 18px 55px rgba(7, 27, 85, 0.14);
+}
+
+[data-theme="dark"] {
+  --bg: #061438;
+  --panel: #0b2050;
+  --panel2: #12346f;
+  --text: #f6faff;
+  --muted: #afc6ea;
+  --line: rgba(220, 236, 255, 0.14);
+  --red: #e02b31;
+  --deep: #851820;
+  --gold: #ffd84d;
+  --shadow: 0 24px 65px rgba(0, 0, 0, 0.42);
+}
+
+.brand-logo,
+.hero-logo,
+.overview-brand-logo {
+  image-rendering: pixelated;
+}

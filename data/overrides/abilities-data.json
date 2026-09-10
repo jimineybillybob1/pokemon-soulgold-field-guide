@@ -1,0 +1,3670 @@
+[
+  {
+    "id": 100000,
+    "key": "stench",
+    "name": "Stench",
+    "description": "Moves that deal damage have a 10% flinch chance. When first in the party, wild encounter rate is reduced by 50%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100001,
+    "key": "drizzle",
+    "name": "Drizzle",
+    "description": "Summons rain for 5 turns when the Pokemon enters a battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100002,
+    "key": "speed-boost",
+    "name": "Speed Boost",
+    "description": "Boosts the Pokemon's Speed stat by 1 stage at the end of every turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100003,
+    "key": "battle-armor",
+    "name": "Battle Armor",
+    "description": "Attacks landed on the Pokemon will never be critical hits.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100004,
+    "key": "sturdy",
+    "name": "Sturdy",
+    "description": "If the Pokemon has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100005,
+    "key": "damp",
+    "name": "Damp",
+    "description": "All Pokemon become unable to use explosive moves or Abilities.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100006,
+    "key": "limber",
+    "name": "Limber",
+    "description": "The Pokemon's limber body prevents it from being paralyzed.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100007,
+    "key": "sand-veil",
+    "name": "Sand Veil",
+    "description": "Boosts the Pokemon's evasiveness by 25% in a sandstorm. Reduces wild encounter rate by 50% when first in the party.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100008,
+    "key": "static",
+    "name": "Static",
+    "description": "Contact has a 30% chance to paralyze the attacker. When first in the party, Electric Pokemon appear more often.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100009,
+    "key": "volt-absorb",
+    "name": "Volt Absorb",
+    "description": "Electric-type moves do not work on the Pokemon. Instead, they restore 1/4 of its max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100010,
+    "key": "water-absorb",
+    "name": "Water Absorb",
+    "description": "Water-type moves do not work on the Pokemon. Instead, they restore 1/4 of its max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100011,
+    "key": "oblivious",
+    "name": "Oblivious",
+    "description": "Not affected by Taunt, Infatuation, or Intimidate.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100012,
+    "key": "cloud-nine",
+    "name": "Cloud Nine",
+    "description": "Eliminates the effects of weather.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100013,
+    "key": "compound-eyes",
+    "name": "Compound Eyes",
+    "description": "Boosts the accuracy of the Pokemon's moves by 30%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100014,
+    "key": "insomnia",
+    "name": "Insomnia",
+    "description": "The Pokemon cannot become drowsy or be put to sleep.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100015,
+    "key": "color-change",
+    "name": "Color Change",
+    "description": "The Pokemon's type becomes the type of the move used on it.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100016,
+    "key": "immunity",
+    "name": "Immunity",
+    "description": "The Pokemon cannot be poisoned or badly poisoned.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100017,
+    "key": "flash-fire",
+    "name": "Flash Fire",
+    "description": "Absorbs Fire-type moves to boost own Fire moves by 50%. When first in party, Fire Pokemon appear more often.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100018,
+    "key": "shield-dust",
+    "name": "Shield Dust",
+    "description": "The Pokemon is immune to additional effects from attacks.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100019,
+    "key": "own-tempo",
+    "name": "Own Tempo",
+    "description": "The Pokemon cannot become confused and is unaffected by Intimidate.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100020,
+    "key": "suction-cups",
+    "name": "Suction Cups",
+    "description": "Cannot be forced to switch out. When first in party, increases the chance of fishing bites.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100021,
+    "key": "intimidate",
+    "name": "Intimidate",
+    "description": "When entering a battle, lowers the Attack of of opponents by 1 stage. Reduces wild encounters 5 levels or lower by 50% when first in the party.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100022,
+    "key": "shadow-tag",
+    "name": "Shadow Tag",
+    "description": "Opponents cannot switch out of battle. Does not affect Ghost Pokemon. Negated if opponents also have Shadow Tag.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100023,
+    "key": "rough-skin",
+    "name": "Rough Skin",
+    "description": "When the Pokemon is hit by a contact move, the attacker takes damage equal to 1/8 of its max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100024,
+    "key": "wonder-guard",
+    "name": "Wonder Guard",
+    "description": "Moves can only deal Supereffective damage. Indirect damage is unaffected.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100025,
+    "key": "levitate",
+    "name": "Levitate",
+    "description": "The Pokemon is immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100026,
+    "key": "effect-spore",
+    "name": "Effect Spore",
+    "description": "When hit by a move that makes contact, has a 30% chance to inflict poison, sleep, or paralysis.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100027,
+    "key": "synchronize",
+    "name": "Synchronize",
+    "description": "Copies paralysis, poison, or burn statuses onto the Pokemon inflicting them. When first in the party, wild pokemon will have a matching nature.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100028,
+    "key": "clear-body",
+    "name": "Clear Body",
+    "description": "The Pokemon's stats cannot be lowered by other Pokemon's moves or Abilities.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100029,
+    "key": "natural-cure",
+    "name": "Natural Cure",
+    "description": "The Pokemon's status conditions are cured when it switches out of battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100030,
+    "key": "lightning-rod",
+    "name": "Lightning Rod",
+    "description": "Draws Electric moves to raise Sp. Atk by 1 stage. When first in the party, Electric Pokemon appear more often.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100031,
+    "key": "serene-grace",
+    "name": "Serene Grace",
+    "description": "Doubles the likelihood of additional effects occurring when the Pokemon uses its moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100032,
+    "key": "swift-swim",
+    "name": "Swift Swim",
+    "description": "Doubles the Pokemon's Speed stat in rain.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100033,
+    "key": "chlorophyll",
+    "name": "Chlorophyll",
+    "description": "Doubles the Pokemon's Speed stat in harsh sunlight.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100034,
+    "key": "illuminate",
+    "name": "Illuminate",
+    "description": "Doubles wild encounter rate. In battle, ignores foes' evasion and blocks accuracy drops.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100035,
+    "key": "trace",
+    "name": "Trace",
+    "description": "When the Pokemon enters a battle, it changes its Ability to match that of an opponent with some exceptions.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100036,
+    "key": "huge-power",
+    "name": "Huge Power",
+    "description": "Doubles the power of the Pokemon's physical moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100037,
+    "key": "poison-point",
+    "name": "Poison Point",
+    "description": "When the Pokemon is hit by a contact move, the attacker has a 30% chance of being poisoned.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100038,
+    "key": "inner-focus",
+    "name": "Inner Focus",
+    "description": "The Pokemon never flinches when attacked and is unaffected by Intimidate.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100039,
+    "key": "magma-armor",
+    "name": "Magma Armor",
+    "description": "Prevents freezing. Eggs hatch faster while this Pokemon is in the party.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100040,
+    "key": "water-veil",
+    "name": "Water Veil",
+    "description": "The Pokemon's water veil prevents it from being burned.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100041,
+    "key": "magnet-pull",
+    "name": "Magnet Pull",
+    "description": "Prevents adjacent Steel-type foes from fleeing or switching. In the lead party slot, Steel Pokemon appear more often.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100042,
+    "key": "soundproof",
+    "name": "Soundproof",
+    "description": "The Pokemon is immune to sound-based moves, including its own.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100043,
+    "key": "rain-dish",
+    "name": "Rain Dish",
+    "description": "Restores 1/16 max HP at the end of each turn while rain is active.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100044,
+    "key": "sand-stream",
+    "name": "Sand Stream",
+    "description": "Summons a sandstorm for 5 turns when the Pokemon enters a battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100045,
+    "key": "pressure",
+    "name": "Pressure",
+    "description": "Opponents use 2 PP per move used against the Pokemon instead of 1.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100046,
+    "key": "thick-fat",
+    "name": "Thick Fat",
+    "description": "Halves the damage taken from Fire-type and Ice-type moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100047,
+    "key": "early-bird",
+    "name": "Early Bird",
+    "description": "The Pokemon recovers from sleep in half the usual number of turns.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100048,
+    "key": "flame-body",
+    "name": "Flame Body",
+    "description": "Contact with the Pokemon has a 30% chance to burn. Eggs hatch faster while this Pokemon is in the party.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100049,
+    "key": "run-away",
+    "name": "Run Away",
+    "description": "The Pokemon can always flee from wild battles, even when trapped.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100050,
+    "key": "keen-eye",
+    "name": "Keen Eye",
+    "description": "Prevents loss of accuracy. Additionally Boosts the accuracy of the Pokemon's moves by 30%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100051,
+    "key": "hyper-cutter",
+    "name": "Hyper Cutter",
+    "description": "Attack cannot be lowered by other Pokemon's moves or Abilities.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100052,
+    "key": "pickup",
+    "name": "Pickup",
+    "description": "May pick up an item after battle if not already holding one.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100053,
+    "key": "truant",
+    "name": "Truant",
+    "description": "Every other turn, the Pokemon loafs around instead of using a move.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100054,
+    "key": "hustle",
+    "name": "Hustle",
+    "description": "Physical moves deal 50% more damage, but their accuracy is reduced to 80%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100055,
+    "key": "cute-charm",
+    "name": "Cute Charm",
+    "description": "When hit by a contact move, has a 30% chance of infatuating an opposite-gender attacker.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100056,
+    "key": "plus",
+    "name": "Plus",
+    "description": "Raises Sp. Atk by 50% if an ally in battle has Plus or Minus.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100057,
+    "key": "minus",
+    "name": "Minus",
+    "description": "Raises Sp. Atk by 50% if an ally in battle has Plus or Minus.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100058,
+    "key": "forecast",
+    "name": "Forecast",
+    "description": "During rain, sun, or icy weather, Castform changes to Water, Fire, or Ice type and matching form.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100059,
+    "key": "sticky-hold",
+    "name": "Sticky Hold",
+    "description": "The Pokemon's held item cannot be removed or stolen by other Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100060,
+    "key": "shed-skin",
+    "name": "Shed Skin",
+    "description": "Pokemon may cure it's status problems by shedding its skin.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100061,
+    "key": "guts",
+    "name": "Guts",
+    "description": "Boosts Attack by 50% when the Pokemon is afflicted by a status condition. Burn's Attack drop is also ignored.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100062,
+    "key": "marvel-scale",
+    "name": "Marvel Scale",
+    "description": "Raises Defense by 50% when inflicted by a major status effect such as Poison.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100063,
+    "key": "liquid-ooze",
+    "name": "Liquid Ooze",
+    "description": "Pokemon that drain HP from this Pokemon lose HP instead of gaining it.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100064,
+    "key": "overgrow",
+    "name": "Overgrow",
+    "description": "Boosts the power of the Pokemon's Grass-type moves by 50% when its HP drops to 1/3 or less of its max.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100065,
+    "key": "blaze",
+    "name": "Blaze",
+    "description": "Boosts the power of the Pokemon's Fire-type moves by 50% when its HP drops to 1/3 or less of its max.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100066,
+    "key": "torrent",
+    "name": "Torrent",
+    "description": "Boosts the power of the Pokemon's Water-type moves by 50% when its HP drops to 1/3 or less of its max.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100067,
+    "key": "swarm",
+    "name": "Swarm",
+    "description": "Boosts the power of the Pokemon's Bug-type moves by 50% when its HP drops to 1/3 or less of its max.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100068,
+    "key": "rock-head",
+    "name": "Rock Head",
+    "description": "The Pokemon takes no recoil damage from its own attacking moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100069,
+    "key": "drought",
+    "name": "Drought",
+    "description": "Summons harsh sunlight in battle. Lasts for 5 turns unless cleared by Air Lock or Cloud Nine.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100070,
+    "key": "arena-trap",
+    "name": "Arena Trap",
+    "description": "Opponents cannot switch out or flee. Does not affect Flying-types or Pokemon that are airborne.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100071,
+    "key": "vital-spirit",
+    "name": "Vital Spirit",
+    "description": "The Pokemon is alert and cannot become drowsy or fall asleep.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100072,
+    "key": "white-smoke",
+    "name": "White Smoke",
+    "description": "Prevents other Pokemon from lowering its stats",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100073,
+    "key": "pure-power",
+    "name": "Pure Power",
+    "description": "Doubles the Pokemon's Attack stat.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100074,
+    "key": "shell-armor",
+    "name": "Shell Armor",
+    "description": "Attacks landed on the Pokemon will never be critical hits.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100075,
+    "key": "air-lock",
+    "name": "Air Lock",
+    "description": "Suppresses all weather effects while the Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100076,
+    "key": "tangled-feet",
+    "name": "Tangled Feet",
+    "description": "Doubles the Pokemon's evasiveness while it is confused.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100077,
+    "key": "motor-drive",
+    "name": "Motor Drive",
+    "description": "Being hit by electricity raisesd Speed by one stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100078,
+    "key": "rivalry",
+    "name": "Rivalry",
+    "description": "Deals more damage against Pokemon of the same gender.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100079,
+    "key": "steadfast",
+    "name": "Steadfast",
+    "description": "Raises the Pokemon's Speed by 1 stage each time it flinches.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100080,
+    "key": "snow-cloak",
+    "name": "Snow Cloak",
+    "description": "Ups evasion in Hail or Snow by 20%. Also gives immunity to hail damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100081,
+    "key": "gluttony",
+    "name": "Gluttony",
+    "description": "The Pokemon eats its held Berry when its HP drops to 1/2 instead of the usual 1/4.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100082,
+    "key": "anger-point",
+    "name": "Anger Point",
+    "description": "Taking a critical hit raises Attack to the maximum of 6 stages.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100083,
+    "key": "unburden",
+    "name": "Unburden",
+    "description": "Using or losing a held item doubles Speed until the Pokemon leaves battle or gains a new item.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100084,
+    "key": "heatproof",
+    "name": "Heatproof",
+    "description": "Halves damage from Fire-type moves and burn damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100085,
+    "key": "simple",
+    "name": "Simple",
+    "description": "Stat changes count double for this Pokemon, still capped at -6 and +6.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100086,
+    "key": "dry-skin",
+    "name": "Dry Skin",
+    "description": "Heals 1/8 HP in rain, loses 1/8 HP in sun, absorbs Water moves, and takes extra Fire damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100087,
+    "key": "download",
+    "name": "Download",
+    "description": "On entry, raises Attack or Sp. Atk by 1 stage, whichever counters the foe's lower defense.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100088,
+    "key": "iron-fist",
+    "name": "Iron Fist",
+    "description": "Boosts the power of punching moves by 20%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100089,
+    "key": "poison-heal",
+    "name": "Poison Heal",
+    "description": "Restores 1/8 of max HP each turn when poisoned instead of taking poison damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100090,
+    "key": "adaptability",
+    "name": "Adaptability",
+    "description": "Same-type attack bonus is 2x instead of 1.5x for the Pokemon's moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100091,
+    "key": "skill-link",
+    "name": "Skill Link",
+    "description": "Multi-hit moves that hit 2 to 5 times always land all 5 hits.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100092,
+    "key": "hydration",
+    "name": "Hydration",
+    "description": "Cures any status condition at the end of each turn while it is raining.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100093,
+    "key": "solar-power",
+    "name": "Solar Power",
+    "description": "In harsh sunlight, raises Sp. Atk by 50% but loses 1/8 of max HP at the end of each turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100094,
+    "key": "quick-feet",
+    "name": "Quick Feet",
+    "description": "Boosts Speed by 50% when afflicted by a status condition, and ignores paralysis' Speed drop.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100095,
+    "key": "normalize",
+    "name": "Normalize",
+    "description": "All of the Pokemon's moves become Normal-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100096,
+    "key": "sniper",
+    "name": "Sniper",
+    "description": "Critical hits deal 2.25x damage instead of the usual 1.5x.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100097,
+    "key": "magic-guard",
+    "name": "Magic Guard",
+    "description": "The Pokemon only takes damage from direct attacks. Indirect damage does not affect it.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100098,
+    "key": "no-guard",
+    "name": "No Guard",
+    "description": "All moves used by or against this Pokemon never miss.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100099,
+    "key": "stall",
+    "name": "Stall",
+    "description": "The Pokemon moves last within its priority bracket every turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100100,
+    "key": "technician",
+    "name": "Technician",
+    "description": "Boosts the power of moves with 60 base power or less by 50%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100101,
+    "key": "leaf-guard",
+    "name": "Leaf Guard",
+    "description": "Prevents major status conditions while harsh sunlight is active.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100102,
+    "key": "klutz",
+    "name": "Klutz",
+    "description": "The Pokemon cannot use the effects of its held item.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100103,
+    "key": "mold-breaker",
+    "name": "Mold Breaker",
+    "description": "Moves ignore Abilities that would hinder or prevent their effects.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100104,
+    "key": "super-luck",
+    "name": "Super Luck",
+    "description": "Raises this Pokemon's critical-hit ratio by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100105,
+    "key": "aftermath",
+    "name": "Aftermath",
+    "description": "If knocked out by a contact move, damages the attacker for 1/4 of its max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100106,
+    "key": "anticipation",
+    "name": "Anticipation",
+    "description": "On entry, shudders if a foe has a supereffective or OHKO move.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100107,
+    "key": "forewarn",
+    "name": "Forewarn",
+    "description": "On entry, reveals the move with the highest power among the foe's Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100108,
+    "key": "unaware",
+    "name": "Unaware",
+    "description": "Ignores the foe's stat stage changes when dealing or taking damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100109,
+    "key": "tinted-lens",
+    "name": "Tinted Lens",
+    "description": "Doubles the damage of not very effective moves used by this Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100110,
+    "key": "filter",
+    "name": "Filter",
+    "description": "Reduces damage from super effective moves to 75%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100111,
+    "key": "slow-start",
+    "name": "Slow Start",
+    "description": "For 5 turns after entry, Attack and Speed are halved.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100112,
+    "key": "scrappy",
+    "name": "Scrappy",
+    "description": "Normal- and Fighting- type moves can hit Ghost- type Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100113,
+    "key": "storm-drain",
+    "name": "Storm Drain",
+    "description": "Draws in all Water-type moves, taking no damage and raising its Sp. Atk by 1 stage instead.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100114,
+    "key": "ice-body",
+    "name": "Ice Body",
+    "description": "Restores 1/16 max HP at each turn's end during hail or snow, and blocks hail damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100115,
+    "key": "solid-rock",
+    "name": "Solid Rock",
+    "description": "Reduces damage from super effective moves to 75%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100116,
+    "key": "snow-warning",
+    "name": "Snow Warning",
+    "description": "Summons a snowstorm for 5 turns when the Pokemon enters a battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100117,
+    "key": "honey-gather",
+    "name": "Honey Gather",
+    "description": "May gather a Honey item after battle if not holding an item.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100118,
+    "key": "frisk",
+    "name": "Frisk",
+    "description": "On entry, reveals the held items of opposing Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100119,
+    "key": "reckless",
+    "name": "Reckless",
+    "description": "Boosts recoil and crash moves by 20%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100120,
+    "key": "multitype",
+    "name": "Multitype",
+    "description": "Changes Arceus's type to match its held Plate and prevents item removal.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100121,
+    "key": "flower-gift",
+    "name": "Flower Gift",
+    "description": "In harsh sunlight, allies' Attack and Sp. Def are raised by 50%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100122,
+    "key": "bad-dreams",
+    "name": "Bad Dreams",
+    "description": "Sleeping opposing Pokemon lose 1/8 max HP at the end of each turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100123,
+    "key": "pickpocket",
+    "name": "Pickpocket",
+    "description": "If hit by a contact move while itemless, steals the attacker's held item.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100124,
+    "key": "sheer-force",
+    "name": "Sheer Force",
+    "description": "Moves with added effects hit 30% harder, but those added effects do not activate.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100125,
+    "key": "contrary",
+    "name": "Contrary",
+    "description": "Stat changes are reversed: boosts become drops and drops become boosts.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100126,
+    "key": "unnerve",
+    "name": "Unnerve",
+    "description": "Opposing Pokemon are too nervous to eat their held Berries.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100127,
+    "key": "defiant",
+    "name": "Defiant",
+    "description": "Sharply raises Attack by 2 stages whenever any of the Pokemon's stats are lowered by a foe.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100128,
+    "key": "defeatist",
+    "name": "Defeatist",
+    "description": "Halves Attack and Sp. Atk when the Pokemon's HP drops to 1/2 or less.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100129,
+    "key": "cursed-body",
+    "name": "Cursed Body",
+    "description": "Moves that hit this Pokemon have a 30% chance to be Disabled.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100130,
+    "key": "healer",
+    "name": "Healer",
+    "description": "Has a 30% chance each turn to cure an ally's status condition.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100131,
+    "key": "friend-guard",
+    "name": "Friend Guard",
+    "description": "Allied Pokemon take 25% less direct damage from moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100132,
+    "key": "weak-armor",
+    "name": "Weak Armor",
+    "description": "Being hit by a physical move lowers Defense by 1 stage and raises Speed by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100133,
+    "key": "heavy-metal",
+    "name": "Heavy Metal",
+    "description": "Doubles the Pokemon's weight, affecting weight-based moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100134,
+    "key": "light-metal",
+    "name": "Light Metal",
+    "description": "Halves the Pokemon's weight, affecting weight-based moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100135,
+    "key": "multiscale",
+    "name": "Multiscale",
+    "description": "Damage taken from moves is halved while this Pokemon is at full HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100136,
+    "key": "toxic-boost",
+    "name": "Toxic Boost",
+    "description": "Boosts Attack by 50% while the Pokemon is poisoned.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100137,
+    "key": "flare-boost",
+    "name": "Flare Boost",
+    "description": "Boosts Sp. Atk by 50% while the Pokemon is burned.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100138,
+    "key": "harvest",
+    "name": "Harvest",
+    "description": "At each turn's end, may restore a consumed Berry; always succeeds in sun.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100139,
+    "key": "telepathy",
+    "name": "Telepathy",
+    "description": "Prevents damage from allied Pokemon's moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100140,
+    "key": "moody",
+    "name": "Moody",
+    "description": "Each turn, raises one random stat by 2 stages and lowers another by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100141,
+    "key": "overcoat",
+    "name": "Overcoat",
+    "description": "Prevents weather damage and powder or spore move effects.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100142,
+    "key": "poison-touch",
+    "name": "Poison Touch",
+    "description": "Has a 30% chance to poison foes when the Pokemon hits them with a contact move.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100143,
+    "key": "regenerator",
+    "name": "Regenerator",
+    "description": "Restores 1/3 max HP when this Pokemon switches out without fainting.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100144,
+    "key": "big-pecks",
+    "name": "Big Pecks",
+    "description": "The Pokemon's Defense cannot be lowered by other Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100145,
+    "key": "sand-rush",
+    "name": "Sand Rush",
+    "description": "Doubles Speed in a sandstorm and prevents sandstorm damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100146,
+    "key": "wonder-skin",
+    "name": "Wonder Skin",
+    "description": "Status moves used against this Pokemon have their accuracy lowered to 50%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100147,
+    "key": "analytic",
+    "name": "Analytic",
+    "description": "Moves hit 30% harder when this Pokemon moves last.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100148,
+    "key": "illusion",
+    "name": "Illusion",
+    "description": "On entry, takes the appearance of the last party Pokemon until it is hit by an attack.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100149,
+    "key": "imposter",
+    "name": "Imposter",
+    "description": "Transforms into a random opposing Pokemon on entry.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100150,
+    "key": "infiltrator",
+    "name": "Infiltrator",
+    "description": "The Pokemon's moves ignore the foe's screens, Safeguard, Mist, and Substitute.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100151,
+    "key": "mummy",
+    "name": "Mummy",
+    "description": "Contact with the Pokemon changes the attacker's Ability to Mummy.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100152,
+    "key": "moxie",
+    "name": "Moxie",
+    "description": "Raises Attack by 1 stage each time the Pokemon knocks out a foe.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100153,
+    "key": "justified",
+    "name": "Justified",
+    "description": "Raises Attack by 1 stage when hit by a Dark-type move.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100154,
+    "key": "rattled",
+    "name": "Rattled",
+    "description": "Taking Bug-, Ghost-, or Dark-type damage raises Speed by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100155,
+    "key": "magic-bounce",
+    "name": "Magic Bounce",
+    "description": "Reflects status moves back at the Pokemon that used them.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100156,
+    "key": "sap-sipper",
+    "name": "Sap Sipper",
+    "description": "Grass-type moves do not work on the Pokemon. Instead, they raise its Attack by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100157,
+    "key": "prankster",
+    "name": "Prankster",
+    "description": "Gives status moves +1 priority. They miss against Dark-types.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100158,
+    "key": "sand-force",
+    "name": "Sand Force",
+    "description": "In sandstorm, Rock-, Ground-, and Steel-type moves hit 30% harder and sand damage is blocked.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100159,
+    "key": "iron-barbs",
+    "name": "Iron Barbs",
+    "description": "When hit by a contact move, the attacker takes damage equal to 1/8 of its max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100160,
+    "key": "zen-mode",
+    "name": "Zen Mode",
+    "description": "Changes to Zen Mode when HP drops to 1/2 or less, and back when above.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100161,
+    "key": "victory-star",
+    "name": "Victory Star",
+    "description": "Raises the accuracy of the Pokemon and its allies by 10%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100162,
+    "key": "turboblaze",
+    "name": "Turboblaze",
+    "description": "Moves hit through abilities such as Levitate.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100163,
+    "key": "teravolt",
+    "name": "Teravolt",
+    "description": "Moves hit through abilities such as Levitate.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100164,
+    "key": "aroma-veil",
+    "name": "Aroma Veil",
+    "description": "Protects allies from mental effects that limit move choice or action.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100165,
+    "key": "flower-veil",
+    "name": "Flower Veil",
+    "description": "Allied Grass-types cannot have their stats lowered or be afflicted with status conditions.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100166,
+    "key": "cheek-pouch",
+    "name": "Cheek Pouch",
+    "description": "Eating a Berry restores HP in addition to the Berry's normal effect.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100167,
+    "key": "protean",
+    "name": "Protean",
+    "description": "Changes the Pokemon's type to match the move it uses before attacking.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100168,
+    "key": "fur-coat",
+    "name": "Fur Coat",
+    "description": "Halves the damage the Pokemon takes from physical moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100169,
+    "key": "magician",
+    "name": "Magician",
+    "description": "When this Pokemon uses a damaging move, it steals the target's held item.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100170,
+    "key": "bulletproof",
+    "name": "Bulletproof",
+    "description": "Protects the Pokemon from ball and bomb moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100171,
+    "key": "competitive",
+    "name": "Competitive",
+    "description": "When any stat is lowered, raises Sp. Atk by 2 stages.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100172,
+    "key": "strong-jaw",
+    "name": "Strong Jaw",
+    "description": "Boosts the power of biting moves by 50%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100173,
+    "key": "refrigerate",
+    "name": "Refrigerate",
+    "description": "Normal-type moves become Ice-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100174,
+    "key": "sweet-veil",
+    "name": "Sweet Veil",
+    "description": "Prevents this Pokemon and its allies from being put to sleep.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100175,
+    "key": "stance-change",
+    "name": "Stance Change",
+    "description": "Transforms as it. battles",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100176,
+    "key": "gale-wings",
+    "name": "Gale Wings",
+    "description": "Gives Flying-type moves +1 priority while the Pokemon is at full HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100177,
+    "key": "mega-launcher",
+    "name": "Mega Launcher",
+    "description": "Boosts the power of pulse and aura moves by 50%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100178,
+    "key": "grass-pelt",
+    "name": "Grass Pelt",
+    "description": "Raises Defense by 50% while Grassy Terrain is active.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100179,
+    "key": "symbiosis",
+    "name": "Symbiosis",
+    "description": "Passes its held item to an ally immediately after the ally uses its item.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100180,
+    "key": "tough-claws",
+    "name": "Tough Claws",
+    "description": "Boosts the power of contact moves by 30%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100181,
+    "key": "pixilate",
+    "name": "Pixilate",
+    "description": "Normal-type moves become Fairy-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100182,
+    "key": "gooey",
+    "name": "Gooey",
+    "description": "Lowers the attacker's Speed by 1 stage when hit by a contact move.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100183,
+    "key": "aerilate",
+    "name": "Aerilate",
+    "description": "Normal-type moves become Flying-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100184,
+    "key": "parental-bond",
+    "name": "Parental Bond",
+    "description": "The Pokemon attacks twice; the second hit deals 1/4 of the normal damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100185,
+    "key": "dark-aura",
+    "name": "Dark Aura",
+    "description": "Boosts the power of all Dark-type moves in battle by 33%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100186,
+    "key": "fairy-aura",
+    "name": "Fairy Aura",
+    "description": "Boosts the power of all Fairy-type moves in battle by 33%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100187,
+    "key": "aura-break",
+    "name": "Aura Break",
+    "description": "Reverses the effects of Dark, Fairy, and Malice Auras, weakening those moves instead.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100188,
+    "key": "primordial-sea",
+    "name": "Primordial Sea",
+    "description": "Summons heavy rain that makes Fire-type moves fail, lasting while the Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100189,
+    "key": "desolate-land",
+    "name": "Desolate Land",
+    "description": "Turns sunlight extremely harsh on entry, blocking damaging Water moves until the Pokemon leaves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100190,
+    "key": "delta-stream",
+    "name": "Delta Stream",
+    "description": "Summons strong winds that remove Flying-type weaknesses while the Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100191,
+    "key": "stamina",
+    "name": "Stamina",
+    "description": "Raises Defense by 1 stage each time the Pokemon is hit by an attack.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100192,
+    "key": "wimp-out",
+    "name": "Wimp Out",
+    "description": "The Pokemon switches out when its HP drops to 1/2 or less.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100193,
+    "key": "emergency-exit",
+    "name": "Emergency Exit",
+    "description": "The Pokemon switches out when its HP drops to 1/2 or less.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100194,
+    "key": "water-compaction",
+    "name": "Water Compaction",
+    "description": "Raises Defense by 2 stages when hit by a Water-type move.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100195,
+    "key": "merciless",
+    "name": "Merciless",
+    "description": "The Pokemon's attacks always land critical hits on poisoned foes.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100196,
+    "key": "shields-down",
+    "name": "Shields Down",
+    "description": "Above 1/2 HP its shell blocks status. At 1/2 or less it breaks and switches to Attack mode.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100197,
+    "key": "stakeout",
+    "name": "Stakeout",
+    "description": "Moves deal double damage against targets that switched in this turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100198,
+    "key": "water-bubble",
+    "name": "Water Bubble",
+    "description": "Halves incoming Fire damage, doubles Water moves, and prevents burns.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100199,
+    "key": "steelworker",
+    "name": "Steelworker",
+    "description": "Boosts the power of the Pokemon's Steel-type moves by 50%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100200,
+    "key": "berserk",
+    "name": "Berserk",
+    "description": "When damage drops HP below half, raises Sp. Atk by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100201,
+    "key": "slush-rush",
+    "name": "Slush Rush",
+    "description": "Doubles Speed during hail or snow and prevents hail damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100202,
+    "key": "long-reach",
+    "name": "Long Reach",
+    "description": "The Pokemon's moves do not make contact with the target.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100203,
+    "key": "liquid-voice",
+    "name": "Liquid Voice",
+    "description": "All of the Pokemon's sound-based moves become Water-type.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100204,
+    "key": "triage",
+    "name": "Triage",
+    "description": "Gives healing moves +3 priority in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100205,
+    "key": "galvanize",
+    "name": "Galvanize",
+    "description": "Normal-type moves become Electric-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100206,
+    "key": "surge-surfer",
+    "name": "Surge Surfer",
+    "description": "Doubles the Pokemon's Speed while Electric Terrain is active.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100207,
+    "key": "schooling",
+    "name": "Schooling",
+    "description": "At level 20+, Wishiwashi becomes School Form at 1/4 HP or above, else Solo Form.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100208,
+    "key": "disguise",
+    "name": "Disguise",
+    "description": "A cloak blocks the damage from one attack, then breaks, costing 1/8 of max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100209,
+    "key": "battle-bond",
+    "name": "Battle Bond",
+    "description": "After knocking out a foe, Greninja transforms into its Ash form.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100210,
+    "key": "power-construct",
+    "name": "Power Construct",
+    "description": "When Zygarde falls below half HP, it changes into Complete Forme.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100211,
+    "key": "corrosion",
+    "name": "Corrosion",
+    "description": "The Pokemon can poison even Steel-type and Poison-type targets.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100212,
+    "key": "comatose",
+    "name": "Comatose",
+    "description": "The Pokemon is always drowsing and acts as if asleep, but cannot gain another status.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100213,
+    "key": "queenly-majesty",
+    "name": "Queenly Majesty",
+    "description": "Opposing Pokemon cannot hit it with increased priority moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100214,
+    "key": "innards-out",
+    "name": "Innards Out",
+    "description": "When knocked out by an attack, deals damage to the attacker equal to the HP it had left.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100215,
+    "key": "dancer",
+    "name": "Dancer",
+    "description": "When another Pokemon uses a dance move, this Pokemon copies it right afterward.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100216,
+    "key": "battery",
+    "name": "Battery",
+    "description": "Raises the power of allies' special moves by 30%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100217,
+    "key": "fluffy",
+    "name": "Fluffy",
+    "description": "Halves contact-move damage but doubles damage from Fire-type moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100218,
+    "key": "dazzling",
+    "name": "Dazzling",
+    "description": "Opposing Pokemon cannot hit it with increased priority moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100219,
+    "key": "soul-heart",
+    "name": "Soul-Heart",
+    "description": "Raises Sp. Atk by 1 stage each time any Pokemon is knocked out.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100220,
+    "key": "tangling-hair",
+    "name": "Tangling Hair",
+    "description": "Lowers the attacker's Speed by 1 stage when hit by a contact move.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100221,
+    "key": "receiver",
+    "name": "Receiver",
+    "description": "Inherits the Ability of a defeated ally.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100222,
+    "key": "power-of-alchemy",
+    "name": "Power Of Alchemy",
+    "description": "Inherits the Ability of a defeated ally.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100223,
+    "key": "beast-boost",
+    "name": "Beast Boost",
+    "description": "Raises its highest stat by 1 stage each time it knocks out a foe.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100224,
+    "key": "rks-system",
+    "name": "RKS System",
+    "description": "Changes Silvally's type to match its held Memory and resists replacement.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100225,
+    "key": "electric-surge",
+    "name": "Electric Surge",
+    "description": "Turns the ground into Electric Terrain for 5 turns when entering battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100226,
+    "key": "psychic-surge",
+    "name": "Psychic Surge",
+    "description": "Turns the ground into Psychic Terrain for 5 turns when entering battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100227,
+    "key": "misty-surge",
+    "name": "Misty Surge",
+    "description": "Turns the ground into Misty Terrain for 5 turns when entering battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100228,
+    "key": "grassy-surge",
+    "name": "Grassy Surge",
+    "description": "Turns the ground into Grassy Terrain for 5 turns when entering battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100229,
+    "key": "full-metal-body",
+    "name": "Full Metal Body",
+    "description": "The Pokemon's stats cannot be lowered by other Pokemon's moves or Abilities.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100230,
+    "key": "shadow-shield",
+    "name": "Shadow Shield",
+    "description": "Damage from moves is halved while this Pokemon is at full HP; it cannot be bypassed.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100231,
+    "key": "prism-armor",
+    "name": "Prism Armor",
+    "description": "Reduces super effective damage to 75%; it cannot be bypassed.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100232,
+    "key": "neuroforce",
+    "name": "Neuroforce",
+    "description": "Boosts the power of supereffective moves by 25%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100233,
+    "key": "intrepid-sword",
+    "name": "Intrepid Sword",
+    "description": "Raises Attack by 1 stage when the Pokemon enters a battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100234,
+    "key": "dauntless-shield",
+    "name": "Dauntless Shield",
+    "description": "Raises Defense by 1 stage when the Pokemon enters a battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100235,
+    "key": "libero",
+    "name": "Libero",
+    "description": "Changes the Pokemon's type to match the move it is about to use.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100236,
+    "key": "ball-fetch",
+    "name": "Ball Fetch",
+    "description": "If itemless, fetches the first failed Poke Ball at the end of a turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100237,
+    "key": "cotton-down",
+    "name": "Cotton Down",
+    "description": "When hit by an attack, lowers every other Pokemon's Speed by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100238,
+    "key": "propeller-tail",
+    "name": "Propeller Tail",
+    "description": "Ignores moves and Abilities that redirect the target of its moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100239,
+    "key": "mirror-armor",
+    "name": "Mirror Armor",
+    "description": "Bounces back only the stat-lowering effects the Pokemon receives.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100240,
+    "key": "gulp-missile",
+    "name": "Gulp Missile",
+    "description": "After using Surf or Dive, Cramorant catches prey; when hit, spits it at the attacker.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100241,
+    "key": "stalwart",
+    "name": "Stalwart",
+    "description": "Ignores moves and Abilities that redirect the target of its moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100242,
+    "key": "steam-engine",
+    "name": "Steam Engine",
+    "description": "Raises Speed by 3 stages when hit by a Fire- or Water-type move.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100243,
+    "key": "punk-rock",
+    "name": "Punk Rock",
+    "description": "Boosts sound moves by 30% and halves the damage taken from sound-based moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100244,
+    "key": "sand-spit",
+    "name": "Sand Spit",
+    "description": "Creates a sandstorm when this Pokemon is hit by an attack.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100245,
+    "key": "ice-scales",
+    "name": "Ice Scales",
+    "description": "Halves the damage the Pokemon takes from special moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100246,
+    "key": "ripen",
+    "name": "Ripen",
+    "description": "Doubles the effects of Berries used by this Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100247,
+    "key": "ice-face",
+    "name": "Ice Face",
+    "description": "In Ice Face form, blocks one physical hit. Hail or snow restores Ice Face.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100248,
+    "key": "power-spot",
+    "name": "Power Spot",
+    "description": "Boosts the power of allies' moves by 30%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100249,
+    "key": "mimicry",
+    "name": "Mimicry",
+    "description": "The Pokemon's type changes to match the current terrain.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100250,
+    "key": "screen-cleaner",
+    "name": "Screen Cleaner",
+    "description": "On entry, removes Light Screen, Reflect, and Aurora Veil on both sides of the field.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100251,
+    "key": "steely-spirit",
+    "name": "Steely Spirit",
+    "description": "Powers up Steel-type moves used by this Pokemon and its allies.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100252,
+    "key": "perish-body",
+    "name": "Perish Body",
+    "description": "Contact with this Pokemon starts a 3-turn Perish Count on both battlers.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100253,
+    "key": "wandering-spirit",
+    "name": "Wandering Spirit",
+    "description": "When hit by contact, this Pokemon swaps Abilities with the attacker.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100254,
+    "key": "gorilla-tactics",
+    "name": "Gorilla Tactics",
+    "description": "Raises Attack, but locks this Pokemon into the first move it selects.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100255,
+    "key": "neutralizing-gas",
+    "name": "Neutralizing Gas",
+    "description": "While this Pokemon is in battle, other Abilities are nullified or cannot trigger.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100256,
+    "key": "pastel-veil",
+    "name": "Pastel Veil",
+    "description": "Prevents this Pokemon and allies from poisoning and cures allies on entry.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100257,
+    "key": "hunger-switch",
+    "name": "Hunger Switch",
+    "description": "Switches between Full and Hangry forms at the end of each turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100258,
+    "key": "quick-draw",
+    "name": "Quick Draw",
+    "description": "Damaging moves have a 30% chance to move first within their priority bracket.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100259,
+    "key": "unseen-fist",
+    "name": "Unseen Fist",
+    "description": "Contact moves hit through protection effects such as Protect and Detect.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100260,
+    "key": "curious-medicine",
+    "name": "Curious Medicine",
+    "description": "On entry, removes all stat changes from allied Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100261,
+    "key": "transistor",
+    "name": "Transistor",
+    "description": "Boosts the power of the Pokemon's Electric-type moves by 30%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100262,
+    "key": "dragons-maw",
+    "name": "Dragon's Maw",
+    "description": "Boosts the power of the Pokemon's Dragon-type moves by 50%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100263,
+    "key": "chilling-neigh",
+    "name": "Chilling Neigh",
+    "description": "Raises Attack by 1 stage each time the Pokemon knocks out a foe.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100264,
+    "key": "grim-neigh",
+    "name": "Grim Neigh",
+    "description": "Raises Sp. Atk by 1 stage each time the Pokemon knocks out a foe.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100265,
+    "key": "as-one-ice-rider",
+    "name": "As One",
+    "description": "Combines the effects of Unnerve and Chilling Neigh.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100266,
+    "key": "as-one-shadow-rider",
+    "name": "As One",
+    "description": "Combines the effects of Unnerve and Grim Neigh: foes can't eat Berries and KOs raise Sp. Atk.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100267,
+    "key": "lingering-aroma",
+    "name": "Lingering Aroma",
+    "description": "Contact with the Pokemon changes the attacker's Ability to Lingering Aroma.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100268,
+    "key": "seed-sower",
+    "name": "Seed Sower",
+    "description": "When hit by an attack, the Pokemon turns the field into Grassy Terrain.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100269,
+    "key": "thermal-exchange",
+    "name": "Thermal Exchange",
+    "description": "The Pokemon cannot be burned. Fire-type moves that hit it raise its Attack by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100270,
+    "key": "anger-shell",
+    "name": "Anger Shell",
+    "description": "When damage drops HP to half or less, Attack, Sp. Atk, and Speed rise by 1 stage while Defense and Sp. Def fall by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100271,
+    "key": "purifying-salt",
+    "name": "Purifying Salt",
+    "description": "Halves damage from Ghost-type moves. The Pokemon is immune to status conditions.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100272,
+    "key": "well-baked-body",
+    "name": "Well-Baked Body",
+    "description": "Fire-type moves do not work. Instead, they sharply raise the Pokemon's Defense stat.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100273,
+    "key": "wind-rider",
+    "name": "Wind Rider",
+    "description": "Immune to wind moves. Instead, they raise Attack. Tailwind also raises the Pokemon's Attack.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100274,
+    "key": "guard-dog",
+    "name": "Guard Dog",
+    "description": "The Pokemon cannot be intimidated or forced out. Intimidate raises its Attack instead.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100275,
+    "key": "rocky-payload",
+    "name": "Rocky Payload",
+    "description": "Boosts the power of the Pokemon's Rock-type moves by 50%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100276,
+    "key": "wind-power",
+    "name": "Wind Power",
+    "description": "Wind moves give the Pokemon the Charged status, doubling its next Electric move.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100277,
+    "key": "zero-to-hero",
+    "name": "Zero to Hero",
+    "description": "The Pokemon transforms into its Hero Form when it switches out.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100278,
+    "key": "commander",
+    "name": "Commander",
+    "description": "On entry, if ally Dondozo is present, the Pokemon enters its mouth and commands from there.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100279,
+    "key": "electromorphosis",
+    "name": "Electromorphosis",
+    "description": "Taking damage gives the Pokemon the Charged status, doubling its next Electric move.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100280,
+    "key": "protosynthesis",
+    "name": "Protosynthesis",
+    "description": "Harsh sunlight or Booster Energy boosts the Pokemon's highest stat.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100281,
+    "key": "quark-drive",
+    "name": "Quark Drive",
+    "description": "Electric Terrain or Booster Energy boosts the Pokemon's highest stat.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100282,
+    "key": "good-as-gold",
+    "name": "Good as Gold",
+    "description": "A body of pure gold gives the Pokemon full immunity to status moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100283,
+    "key": "vessel-of-ruin",
+    "name": "Vessel of Ruin",
+    "description": "The power of the vessel lowers the Sp. Atk of all Pokemon except itself.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100284,
+    "key": "sword-of-ruin",
+    "name": "Sword of Ruin",
+    "description": "The power of the sword lowers the Defense of all Pokemon except itself.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100285,
+    "key": "tablets-of-ruin",
+    "name": "Tablets of Ruin",
+    "description": "The power of the tablets lowers the Attack of all Pokemon except itself.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100286,
+    "key": "beads-of-ruin",
+    "name": "Beads of Ruin",
+    "description": "The power of the beads lowers the Sp. Def of all Pokemon except itself.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100287,
+    "key": "orichalcum-pulse",
+    "name": "Orichalcum Pulse",
+    "description": "Turns sunlight harsh on entry. In harsh sunlight, the Pokemon's Attack is boosted.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100288,
+    "key": "hadron-engine",
+    "name": "Hadron Engine",
+    "description": "Turns the ground electric on entry. On Electric Terrain, Sp. Atk is boosted.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100289,
+    "key": "opportunist",
+    "name": "Opportunist",
+    "description": "When an opponent's stats are boosted, the Pokemon copies those stat boosts.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100290,
+    "key": "cud-chew",
+    "name": "Cud Chew",
+    "description": "After eating a Berry, the Pokemon eats that same Berry again at the next turn's end.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100291,
+    "key": "sharpness",
+    "name": "Sharpness",
+    "description": "Boosts the power of the Pokemon's slicing moves by 50%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100292,
+    "key": "supreme-overlord",
+    "name": "Supreme Overlord",
+    "description": "On entry, moves gain 10% power for each defeated party member, up to 50%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100293,
+    "key": "costar",
+    "name": "Costar",
+    "description": "When the Pokemon enters battle, it copies an ally's stat changes.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100294,
+    "key": "toxic-debris",
+    "name": "Toxic Debris",
+    "description": "When hit by a physical move, it scatters Toxic Spikes on the opponent's field.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100295,
+    "key": "armor-tail",
+    "name": "Armor Tail",
+    "description": "Opponents cannot use priority moves against the Pokemon or its allies.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100296,
+    "key": "earth-eater",
+    "name": "Earth Eater",
+    "description": "Ground-type moves do not work. Instead, they restore 1/4 of max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100297,
+    "key": "mycelium-might",
+    "name": "Mycelium Might",
+    "description": "Status moves act last but ignore the target's Ability protections.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100298,
+    "key": "hospitality",
+    "name": "Hospitality",
+    "description": "When the Pokemon enters a battle, it restores 1/4 of its ally's max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100299,
+    "key": "minds-eye",
+    "name": "Mind's Eye",
+    "description": "Ignores foes' evasion, prevents accuracy loss, and lets Normal or Fighting hit Ghost.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100300,
+    "key": "embody-aspect-teal-mask",
+    "name": "Embody Aspect",
+    "description": "When Terastallized, the Teal Mask shines and raises Speed by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100301,
+    "key": "embody-aspect-hearthflame-mask",
+    "name": "Embody Aspect",
+    "description": "When Terastallized, the Hearthflame Mask shines and raises Attack by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100302,
+    "key": "embody-aspect-wellspring-mask",
+    "name": "Embody Aspect",
+    "description": "When Terastallized, the Wellspring Mask shines and raises Sp. Def by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100303,
+    "key": "embody-aspect-cornerstone-mask",
+    "name": "Embody Aspect",
+    "description": "When Terastallized, the Cornerstone Mask shines and raises Defense by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100304,
+    "key": "toxic-chain",
+    "name": "Toxic Chain",
+    "description": "The Pokemon's toxic chain may badly poison any target it hits with a move.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100305,
+    "key": "supersweet-syrup",
+    "name": "Supersweet Syrup",
+    "description": "On first entry each battle, lowers opposing Pokemon's evasiveness by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100306,
+    "key": "tera-shift",
+    "name": "Tera Shift",
+    "description": "When the Pokemon enters battle, it absorbs nearby energy and becomes Terastal Form.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100307,
+    "key": "tera-shell",
+    "name": "Tera Shell",
+    "description": "At full HP, all damage-dealing moves that hit the Pokemon are not very effective.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100308,
+    "key": "teraform-zero",
+    "name": "Teraform Zero",
+    "description": "When Stellar Form appears, the Pokemon eliminates all weather and terrain effects.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100309,
+    "key": "poison-puppeteer",
+    "name": "Poison Puppeteer",
+    "description": "Pokemon poisoned by the user's moves also become confused.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100310,
+    "key": "inversion",
+    "name": "Inversion",
+    "description": "When attacked, this Pokemon's weaknesses and resistances are reversed.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100311,
+    "key": "fighting-ate",
+    "name": "Fightilate",
+    "description": "Normal-type moves become Fighting-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100312,
+    "key": "poison-ate",
+    "name": "Venomate",
+    "description": "Normal-type moves become Poison-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100313,
+    "key": "ground-ate",
+    "name": "Terrate",
+    "description": "Normal-type moves become Ground-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100314,
+    "key": "rock-ate",
+    "name": "Rockate",
+    "description": "Normal-type moves become Rock-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100315,
+    "key": "bug-ate",
+    "name": "Swarmate",
+    "description": "Normal-type moves become Bug-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100316,
+    "key": "ghost-ate",
+    "name": "Spectrate",
+    "description": "Normal-type moves become Ghost-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100317,
+    "key": "steel-ate",
+    "name": "Steelate",
+    "description": "Normal-type moves become Steel-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100318,
+    "key": "fire-ate",
+    "name": "Flamilate",
+    "description": "Normal-type moves become Fire-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100319,
+    "key": "water-ate",
+    "name": "Aquate",
+    "description": "Normal-type moves become Water-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100320,
+    "key": "grass-ate",
+    "name": "Florate",
+    "description": "Normal-type moves become Grass-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100321,
+    "key": "psychic-ate",
+    "name": "Psychate",
+    "description": "Normal-type moves become Psychic-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100322,
+    "key": "dragon-ate",
+    "name": "Draconate",
+    "description": "Normal-type moves become Dragon-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100323,
+    "key": "dark-ate",
+    "name": "Dreadate",
+    "description": "Normal-type moves become Dark-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100324,
+    "key": "steel-feet",
+    "name": "Steel Feet",
+    "description": "Kicking moves used by this Pokemon deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100325,
+    "key": "dual-strike",
+    "name": "Dual Strike",
+    "description": "Single-target attacks hit twice, with the second hit reduced in power.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100326,
+    "key": "unstoppable",
+    "name": "Unstoppable",
+    "description": "Prevents fatigue confusion and frees the Pokemon from Sky Drop.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100327,
+    "key": "uncanny",
+    "name": "Uncanny",
+    "description": "On entry, lowers opposing Pokemon's Sp. Atk by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100328,
+    "key": "mystic-force",
+    "name": "Mystic Force",
+    "description": "Doubles Speed while Psychic Terrain is active.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100329,
+    "key": "maneuverability",
+    "name": "Maneuverability",
+    "description": "Damaging moves under 60 power gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100330,
+    "key": "adrenaline",
+    "name": "Adrenaline",
+    "description": "At 1/3 HP or less, Speed is raised by 30%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100331,
+    "key": "pack-leader",
+    "name": "Pack Leader",
+    "description": "Moves deal 5% more damage for each living ally.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100332,
+    "key": "reactive",
+    "name": "Reactive",
+    "description": "Moves gain +1 priority if the foe chooses a super effective attack.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100333,
+    "key": "true-grit",
+    "name": "True Grit",
+    "description": "Normal-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100334,
+    "key": "warrior-spirit",
+    "name": "Warrior Spirit",
+    "description": "Fighting-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100335,
+    "key": "wind-force",
+    "name": "Wind Force",
+    "description": "Flying-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100336,
+    "key": "toxic-core",
+    "name": "Toxic Core",
+    "description": "Poison-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100337,
+    "key": "earthbound",
+    "name": "Earthbound",
+    "description": "Ground-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100338,
+    "key": "hive-force",
+    "name": "Hive Force",
+    "description": "Bug-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100339,
+    "key": "spectral-force",
+    "name": "Spectral Force",
+    "description": "Ghost-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100340,
+    "key": "fiery-heart",
+    "name": "Fire Mane",
+    "description": "Fire-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100341,
+    "key": "seabound",
+    "name": "Seabound",
+    "description": "Water-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100342,
+    "key": "verdant-soul",
+    "name": "Verdant Soul",
+    "description": "Grass-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100343,
+    "key": "mind-force",
+    "name": "Mind Force",
+    "description": "Psychic-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100344,
+    "key": "frost-force",
+    "name": "Frost Force",
+    "description": "Ice-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100345,
+    "key": "nightfall",
+    "name": "Nightfall",
+    "description": "Dark-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100346,
+    "key": "fae-heart",
+    "name": "Fae Heart",
+    "description": "Fairy-type moves used by this Pokemon deal 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100347,
+    "key": "plantation",
+    "name": "Plantation",
+    "description": "Damaging moves have a 30% chance to seed the target if it is not Grass.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100348,
+    "key": "echoing",
+    "name": "Echoing",
+    "description": "Sound moves have a 30% chance to make the target flinch.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100349,
+    "key": "tireless",
+    "name": "Tireless",
+    "description": "Moves that normally need to recharge skip their recharge turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100350,
+    "key": "aura-shield",
+    "name": "Aura Shield",
+    "description": "Blocks the first attack that would hit this Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100351,
+    "key": "plain-soul",
+    "name": "Plain Soul",
+    "description": "Adds Normal as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100352,
+    "key": "fighter-soul",
+    "name": "Fighter Soul",
+    "description": "Adds Fighting as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100353,
+    "key": "wind-soul",
+    "name": "Wind Soul",
+    "description": "Adds Flying as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100354,
+    "key": "venom-soul",
+    "name": "Venom Soul",
+    "description": "Adds Poison as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100355,
+    "key": "earth-soul",
+    "name": "Earth Soul",
+    "description": "Adds Ground as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100356,
+    "key": "stone-soul",
+    "name": "Stone Soul",
+    "description": "Adds Rock as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100357,
+    "key": "hive-soul",
+    "name": "Hive Soul",
+    "description": "Adds Bug as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100358,
+    "key": "phantom-soul",
+    "name": "Phantom Soul",
+    "description": "Adds Ghost as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100359,
+    "key": "steel-soul",
+    "name": "Steel Soul",
+    "description": "Adds Steel as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100360,
+    "key": "flame-soul",
+    "name": "Flame Soul",
+    "description": "Adds Fire as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100361,
+    "key": "sea-soul",
+    "name": "Sea Soul",
+    "description": "Adds Water as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100362,
+    "key": "verdant-soul-type",
+    "name": "Lifetree Soul",
+    "description": "Adds Grass as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100363,
+    "key": "thunder-soul",
+    "name": "Thunder Soul",
+    "description": "Adds Electric as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100364,
+    "key": "mind-soul",
+    "name": "Mind Soul",
+    "description": "Adds Psychic as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100365,
+    "key": "frost-soul",
+    "name": "Frost Soul",
+    "description": "Adds Ice as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100366,
+    "key": "dragon-soul",
+    "name": "Dragon Soul",
+    "description": "Adds Dragon as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100367,
+    "key": "night-soul",
+    "name": "Night Soul",
+    "description": "Adds Dark as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100368,
+    "key": "fae-soul",
+    "name": "Fae Soul",
+    "description": "Adds Fairy as an extra type while this Pokemon is in battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100369,
+    "key": "showtime",
+    "name": "Showtime",
+    "description": "Sets Trick Room for 5 turns when this Pokemon enters battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100370,
+    "key": "rooted",
+    "name": "Rooted",
+    "description": "Gains Ingrain when this Pokemon enters battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100371,
+    "key": "restoring",
+    "name": "Restoring",
+    "description": "Gains Aqua Ring when this Pokemon enters battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100372,
+    "key": "ready-stance",
+    "name": "Ready Stance",
+    "description": "At full HP, Normal-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100373,
+    "key": "first-strike",
+    "name": "First Strike",
+    "description": "At full HP, Fighting-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100374,
+    "key": "toxic-reflex",
+    "name": "Toxic Reflex",
+    "description": "At full HP, Poison-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100375,
+    "key": "earthen-rush",
+    "name": "Earthen Rush",
+    "description": "At full HP, Ground-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100376,
+    "key": "stone-sentinel",
+    "name": "Stone Sentinel",
+    "description": "At full HP, Rock-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100377,
+    "key": "swarm-instinct",
+    "name": "Swarm Instinct",
+    "description": "At full HP, Bug-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100378,
+    "key": "phantom-step",
+    "name": "Phantom Step",
+    "description": "At full HP, Ghost-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100379,
+    "key": "quick-forge",
+    "name": "Quick Forge",
+    "description": "At full HP, Steel-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100380,
+    "key": "flame-rush",
+    "name": "Heat Rush",
+    "description": "At full HP, Fire-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100381,
+    "key": "tidal-reflex",
+    "name": "Tidal Reflex",
+    "description": "At full HP, Water-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100382,
+    "key": "verdant-gale",
+    "name": "Verdant Gale",
+    "description": "At full HP, Grass-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100383,
+    "key": "static-burst",
+    "name": "Static Burst",
+    "description": "At full HP, Electric-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100384,
+    "key": "think-ahead",
+    "name": "Think Ahead",
+    "description": "At full HP, Psychic-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100385,
+    "key": "frost-snap",
+    "name": "Frost Snap",
+    "description": "At full HP, Ice-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100386,
+    "key": "draconic-reflex",
+    "name": "Draconic Sense",
+    "description": "At full HP, Dragon-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100387,
+    "key": "night-stalker",
+    "name": "Nightstalker",
+    "description": "At full HP, Dark-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100388,
+    "key": "fairy-blink",
+    "name": "Sprite shift",
+    "description": "At full HP, Fairy-type moves gain +1 priority.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100389,
+    "key": "elemental-fist",
+    "name": "Elemental Fist",
+    "description": "Punching moves use Sp. Atk instead of Attack.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100390,
+    "key": "elementalist",
+    "name": "Elementalist",
+    "description": "Physical moves use Sp. Atk instead of Attack.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100391,
+    "key": "soothing",
+    "name": "Soothing",
+    "description": "Damaging moves have a 10% chance to put the target to sleep.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100392,
+    "key": "rolling-stone",
+    "name": "Rolling Stones",
+    "description": "Each successful Rollout hit raises Speed by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100393,
+    "key": "generalist",
+    "name": "Generalist",
+    "description": "Moves not matching this Pokemon's type deal 25% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100394,
+    "key": "windburst",
+    "name": "Windburst",
+    "description": "Sets Tailwind for its side when this Pokemon enters battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100395,
+    "key": "battle-fervor",
+    "name": "Battle Fervor",
+    "description": "On entry, raises Attack by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100396,
+    "key": "guard-stance",
+    "name": "Guard Stance",
+    "description": "On entry, raises Defense by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100397,
+    "key": "mental-surge",
+    "name": "Mental Surge",
+    "description": "On entry, raises Sp. Atk by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100398,
+    "key": "resolute-guard",
+    "name": "Resolute Guard",
+    "description": "On entry, raises Sp. Def by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100399,
+    "key": "skip-step",
+    "name": "Skip Step",
+    "description": "On entry, raises Speed by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100400,
+    "key": "breaking-presence",
+    "name": "Breaking",
+    "description": "On entry, lowers opposing Pokemon's Defense by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100401,
+    "key": "disquiet",
+    "name": "Disquiet",
+    "description": "On entry, lowers opposing Pokemon's Sp. Def by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100402,
+    "key": "hobble",
+    "name": "Tangling",
+    "description": "On entry, lowers opposing Pokemon's Speed by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100403,
+    "key": "seer",
+    "name": "Seer",
+    "description": "Psychic-type attacks that deal damage raise Speed by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100404,
+    "key": "smouldering",
+    "name": "Smouldering",
+    "description": "Absorbs Water-type moves and raises Sp. Def by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100405,
+    "key": "consume",
+    "name": "Consume",
+    "description": "After knocking out foes, restores 1/2 max HP for each foe that fainted.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100406,
+    "key": "lifesteal",
+    "name": "Lifesteal",
+    "description": "Damaging moves heal 1/8 of the damage dealt.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100407,
+    "key": "haunting",
+    "name": "Haunting",
+    "description": "Ghost-type attacks have a 20% chance to make the target flinch.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100408,
+    "key": "windcaller",
+    "name": "Windcaller",
+    "description": "Flying-type moves deal 30% more damage, and Tailwind lasts longer.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100409,
+    "key": "siegebreaker",
+    "name": "Siegebreaker",
+    "description": "Attacks use 2/3 of Defense instead of Attack or Sp. Atk.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100410,
+    "key": "sandshield",
+    "name": "Sandshield",
+    "description": "Doubles Defense during a sandstorm.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100411,
+    "key": "jade-bloom",
+    "name": "Jade Bloom",
+    "description": "At turn end, if not statused, restores 1/16 max HP and raises either Sp. Atk or Sp. Def.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100412,
+    "key": "brimstone",
+    "name": "Brimstone",
+    "description": "Fire-type moves ignore Flash Fire and other Fire immunities when this Pokemon attacks.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100413,
+    "key": "stygian",
+    "name": "Stygian",
+    "description": "Moves gain +1 priority when they are expected to hit a sleeping target.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100414,
+    "key": "omega",
+    "name": "Omega",
+    "description": "This Pokemon's attacks are always super effective; damage it takes is never very effective.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100415,
+    "key": "permafrost",
+    "name": "Permafrost",
+    "description": "Cannot be burned or have Attack lowered. Damaging moves may freeze or frostbite the target.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100416,
+    "key": "stone-face",
+    "name": "Stone Face",
+    "description": "Endures a full-HP KO at 1/4 max HP and prevents other Pokemon from lowering its stats.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100417,
+    "key": "voidtouch",
+    "name": "Voidtouch",
+    "description": "Damaging moves ignore Reflect, Light Screen, Aurora Veil, Safeguard, and Mist.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100418,
+    "key": "glacial",
+    "name": "Glacial",
+    "description": "Raises Sp. Def by 1 on entry. In hail or snow, restores 1/8 max HP at turn's end.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100419,
+    "key": "lunar-cycle",
+    "name": "Lunar Cycle",
+    "description": "After damaging a target with an attack, raises Speed by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100420,
+    "key": "frost-nova",
+    "name": "Frost Nova",
+    "description": "When knocked out by an attack, freezes the attacker for exactly 1 turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100421,
+    "key": "shockwiring",
+    "name": "Shockwiring",
+    "description": "On entry, gives this Pokemon the charged state.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100422,
+    "key": "ritual",
+    "name": "Ritualist",
+    "description": "Absorbs Ghost-type moves to restore HP, and raises Hex's power to 75.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100423,
+    "key": "overlock",
+    "name": "Overclock",
+    "description": "After using Shift Gear, the next Steel-type move used by this Pokemon has double power.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100424,
+    "key": "spectral-drain",
+    "name": "Spectral Drain",
+    "description": "Ground- and Ghost-type moves heal 25% of damage dealt. Immune to Leech Seed.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100425,
+    "key": "blazing-sun",
+    "name": "Blazing Sun",
+    "description": "Damaging Fire-type moves always burn the target if it can be burned.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100426,
+    "key": "overload",
+    "name": "Overload",
+    "description": "When attacking, ignores defensive effects from the target's held items.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100427,
+    "key": "fill-void",
+    "name": "Fill Void",
+    "description": "After this Pokemon knocks out a foe, raises Def and Sp. Atk by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100428,
+    "key": "dust-devil",
+    "name": "Dust Devil",
+    "description": "Damaging moves have a 15% chance to confuse the target.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100429,
+    "key": "solidify",
+    "name": "Solidify",
+    "description": "When hit by a special attack, raises Sp. Def by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100430,
+    "key": "unleashed",
+    "name": "Unleashed",
+    "description": "Shell Smash raises all stats, but this Pokemon cannot use held items.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100431,
+    "key": "tether",
+    "name": "Tether",
+    "description": "Copies opposing stat boosts when they are raised.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100432,
+    "key": "solar-panel",
+    "name": "Solar Panel",
+    "description": "In harsh sunlight, Electric-type moves used by this Pokemon never miss.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100433,
+    "key": "infernal",
+    "name": "Infernal",
+    "description": "On entry, lowers opposing Pokemon's Attack and Defense by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100434,
+    "key": "reef-warden",
+    "name": "Reef Warden",
+    "description": "Restores 1/2 max HP on switch-out; contact with this Pokemon blocks the attacker's healing.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100435,
+    "key": "solar-armor",
+    "name": "Solar Armor",
+    "description": "Blocks status moves used against this Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100436,
+    "key": "abyssal-veil",
+    "name": "Abyssal Veil",
+    "description": "Blocks status moves while this Pokemon has more than 75% HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100437,
+    "key": "plasma-surge",
+    "name": "Plasma Surge",
+    "description": "During Electric Terrain, damaging attacks always paralyze targets if they can be paralyzed.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100438,
+    "key": "phalanx",
+    "name": "Phalanx",
+    "description": "Halves physical move damage taken by this Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100439,
+    "key": "spectral",
+    "name": "Spectral",
+    "description": "Halves special move damage taken by this Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100440,
+    "key": "sunhardened",
+    "name": "Sunhardened",
+    "description": "Doubles Sp. Def while harsh sunlight is active.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100441,
+    "key": "heatstorm",
+    "name": "Heatstorm",
+    "description": "Creates a Scorched Field on entry. It strengthens Fire moves and Scald while weakening Water and Ice moves.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100442,
+    "key": "coalwalker",
+    "name": "Coalwalker",
+    "description": "Doubles Defense while a Scorched Field is active.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100443,
+    "key": "lava-surfer",
+    "name": "Lava Surfer",
+    "description": "Doubles Speed while a Scorched Field is active.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100444,
+    "key": "ash-assets",
+    "name": "Ash Assets",
+    "description": "After a KO, creates a scorched field if absent; attacks deal 15% more in scorched fields.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100445,
+    "key": "force-return",
+    "name": "Force Return",
+    "description": "When hit by an attack, the attacker takes 30% of the damage dealt.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100446,
+    "key": "enigma",
+    "name": "Enigma",
+    "description": "Moves with Power in their name deal double damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100447,
+    "key": "burrower",
+    "name": "Burrower",
+    "description": "Dig executes in 1 turn and deals 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100448,
+    "key": "diver",
+    "name": "Diver",
+    "description": "Dive executes in 1 turn and deals 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100449,
+    "key": "last-stand",
+    "name": "Last Stand",
+    "description": "Damaging attacks hit 30% harder, but this Pokemon loses 10% max HP after attacking.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100450,
+    "key": "hunter",
+    "name": "Hunter",
+    "description": "Glare also confuses. Attack is raised 50% while a foe is paralyzed.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100451,
+    "key": "nine-lives",
+    "name": "Nine Lives",
+    "description": "Endures full-HP KOs like Sturdy, and gains +2 priority at 1/3 HP or less.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100452,
+    "key": "debilitate",
+    "name": "Debilitate",
+    "description": "Opposing Pokemon spend 3 extra PP when using moves against this Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100453,
+    "key": "titan-grip",
+    "name": "Titan Grip",
+    "description": "Close Combat and Superpower lower the opposing Pokemon's stats instead of this one's.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100454,
+    "key": "flexible",
+    "name": "Prepared",
+    "description": "Two-turn moves execute in a single turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100455,
+    "key": "reborn",
+    "name": "Reborn",
+    "description": "Once per battle, if this Pokemon would faint, it survives and heals to full HP instead.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100456,
+    "key": "rejuvenation",
+    "name": "Rejuvenation",
+    "description": "At turn's end, restores 1/10 max HP if it took no damage that turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100457,
+    "key": "tidal-deity",
+    "name": "Tidal Deity",
+    "description": "At full HP, bypasses protection and screens. When HP drops below full, sets rain for 5 turns.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100458,
+    "key": "rockstorm",
+    "name": "Rockstorm",
+    "description": "In a sandstorm, Rock- type moves used by this Pokemon cannot miss.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100459,
+    "key": "stormrider",
+    "name": "Stormrider",
+    "description": "At each turn's end, lowers the opposing Pokemon's Sp. Def by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100460,
+    "key": "volcano-howl",
+    "name": "Volcano Howl",
+    "description": "At each turn's end, lowers the opposing Pokemon's Defense by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100461,
+    "key": "arctic-aura",
+    "name": "Arctic Aura",
+    "description": "At each turn's end, lowers the opposing Pokemon's Attack by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100462,
+    "key": "bloodlust",
+    "name": "Bloodlust",
+    "description": "Landing a critical hit raises Attack and Speed by 1 stage each.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100463,
+    "key": "gang-up",
+    "name": "Gang Up",
+    "description": "Moves deal 20% more damage to foes already hurt this turn.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100464,
+    "key": "pendulum",
+    "name": "Pendulum",
+    "description": "Consecutive uses of the same move gain 20% more power, up to 60%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100465,
+    "key": "momentum",
+    "name": "Momentum",
+    "description": "After using a priority move, Speed rises by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100466,
+    "key": "desperado",
+    "name": "Desperado",
+    "description": "Taking super-effective damage raises Attack and Sp. Atk by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100467,
+    "key": "glass-cannon",
+    "name": "Glass Cannon",
+    "description": "On entry, raises its higher offense by 2 and lowers both defenses by 2.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100468,
+    "key": "aegis",
+    "name": "Aegis",
+    "description": "Once per turn, direct attack damage cannot exceed 1/4 max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100469,
+    "key": "martyr",
+    "name": "Martyr",
+    "description": "When this Pokemon faints, its allies recover 1/4 max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100470,
+    "key": "indomitable",
+    "name": "Indomitable",
+    "description": "Prevents flinching. Incoming status moves have halved accuracy.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100471,
+    "key": "colossal",
+    "name": "Colossal",
+    "description": "Damaging moves with 44 power or less do not affect this Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100472,
+    "key": "parrying",
+    "name": "Parrying",
+    "description": "Focus Punch is not interrupted, and charging hits raise Defense.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100473,
+    "key": "faintrattle",
+    "name": "Faintrattle",
+    "description": "If a contact attack knocks it out, the attacker is badly poisoned.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100474,
+    "key": "shardplate",
+    "name": "Shardplate",
+    "description": "Direct damage is reduced at first, weakening with each hit this battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100475,
+    "key": "haunted",
+    "name": "Haunted",
+    "description": "Acts as if statused for status-based effects, but blocks major status.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100476,
+    "key": "mending",
+    "name": "Mending",
+    "description": "At turn's end, has a 30% chance to cure status and heal 1/8 max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100477,
+    "key": "plaguetouch",
+    "name": "Plaguetouch",
+    "description": "Contact attacks have a 20% chance to inflict a random major status.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100478,
+    "key": "monsoon",
+    "name": "Monsoon",
+    "description": "In rain, Water moves do not miss and bypass Water immunities.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100479,
+    "key": "mirage",
+    "name": "Mirage",
+    "description": "In sun, damaging moves have a 25% chance to confuse the target.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100480,
+    "key": "blizzard-heart",
+    "name": "Blizzard Heart",
+    "description": "In snow or hail, Ice attacks have a 20% chance to freeze or frostbite.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100481,
+    "key": "mudslide",
+    "name": "Mudslide",
+    "description": "In sand, absorbs Water moves and raises Defense by 2 stages.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100482,
+    "key": "channel-earth",
+    "name": "Channel Earth",
+    "description": "At turn's end, heals 1/16 max HP while any terrain is active.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100483,
+    "key": "magnify-field",
+    "name": "Magnify Field",
+    "description": "On entry, extends finite active weather and terrain by 2 turns.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100484,
+    "key": "blitz",
+    "name": "Blitz",
+    "description": "After using Protect, its next damaging move deals 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100485,
+    "key": "guardian",
+    "name": "Guardian",
+    "description": "Draws single-target foe attacks from allies and takes 15% less damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100486,
+    "key": "backdraft",
+    "name": "Backdraft",
+    "description": "When this Pokemon switches out voluntarily, opposing Pokemon's Speed falls by 1 stage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100487,
+    "key": "rally",
+    "name": "Rally",
+    "description": "On entry in doubles, raises its ally's highest non-HP stat by 1.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100488,
+    "key": "echo-chamber",
+    "name": "Echo Chamber",
+    "description": "Single-target sound moves strike twice, with the second hit weaker.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100489,
+    "key": "flare",
+    "name": "Flare",
+    "description": "Fire-type moves deal 50% more damage to burned targets.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100490,
+    "key": "splinter",
+    "name": "Splinter",
+    "description": "At turn's end, damaged foes lose 1/16 max HP.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100491,
+    "key": "maim-and-mend",
+    "name": "Maim and Mend",
+    "description": "Landing a critical hit heals the user by 1/4 of damage dealt.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100492,
+    "key": "valkyrie",
+    "name": "Valkyrie",
+    "description": "Gains Steel-type resistances and Poison immunity without gaining Steel-type weaknesses.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100493,
+    "key": "immovable",
+    "name": "Immovable",
+    "description": "Moves last within its priority bracket and blocks being forced out.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100494,
+    "key": "transmute",
+    "name": "Transmute",
+    "description": "Once per battle, changes a foe's direct attack to a resisted type.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100495,
+    "key": "twin-stars",
+    "name": "Twin Stars",
+    "description": "In doubles, paired Twin Stars users each gain +1 to five stats once.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100496,
+    "key": "cosmic-form",
+    "name": "Cosmic Form",
+    "description": "Its moves bypass type immunities, and super- effective damage is cut.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100497,
+    "key": "time-spiral",
+    "name": "Time Spiral",
+    "description": "Inverts move priority except forced-switch moves. Finite weather and terrain lose an extra turn at each turn's end.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100498,
+    "key": "null-space",
+    "name": "Null Space",
+    "description": "Damaging moves bypass single-turn protection, but deal half damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100499,
+    "key": "spacetime-rift",
+    "name": "Spacetime Rift",
+    "description": "On a side with Palkia and Dialga, protects them from spread attacks.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100500,
+    "key": "underdog",
+    "name": "Underdog",
+    "description": "Deals 30% more damage to targets with a higher base stat total.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100501,
+    "key": "rock-and-stone",
+    "name": "Rock and Stone",
+    "description": "When it knocks out a foe, sets Stealth Rock on the opposing side.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100502,
+    "key": "polarity-shift",
+    "name": "Polarity Shift",
+    "description": "On entry, swaps Speed with the opposing Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100503,
+    "key": "horse-council",
+    "name": "Horse Council",
+    "description": "Physical and special attacks deal 10% more damage per living horse ally in the party.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100504,
+    "key": "power-shift",
+    "name": "Power Shift",
+    "description": "On entry, swaps Attack and Sp. Atk with the opposing Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100505,
+    "key": "wishmaker",
+    "name": "Wishmaker",
+    "description": "On entry, casts Wish for itself.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100506,
+    "key": "flier",
+    "name": "Flier",
+    "description": "Fly executes in 1 turn and deals 50% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100507,
+    "key": "flameburst",
+    "name": "Flameburst",
+    "description": "When this Pokemon faints from a damaging attack, it burns the opposing side.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100508,
+    "key": "inky",
+    "name": "Inky",
+    "description": "When hit by a damaging move, lowers the attacker's Accuracy.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100509,
+    "key": "brand-of-torment",
+    "name": "Brand of Torment",
+    "description": "Contact attacks have a 30% chance to torment the attacker.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100510,
+    "key": "dragonize",
+    "name": "Dragonize",
+    "description": "Normal-type moves become Dragon-type and deal 20% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100511,
+    "key": "eelevate",
+    "name": "Eelevate",
+    "description": "The Pokemon is immune to Ground-type moves. When it knocks out a foe, its highest stat rises.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100512,
+    "key": "mega-sol",
+    "name": "Mega Sol",
+    "description": "The Pokemon's own moves and effects behave as if the sunlight is harsh.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100513,
+    "key": "spicy-spray",
+    "name": "Spicy Spray",
+    "description": "When damaged by a direct attack, this Pokemon burns the attacker.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100514,
+    "key": "wind-chime",
+    "name": "Wind Chime",
+    "description": "Immune to wind moves. Instead, they raise Sp. Atk. Tailwind also raises the Pokemon's Sp. Atk.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100515,
+    "key": "gravity-well",
+    "name": "Gravity Well",
+    "description": "Intensifies Gravity for 5 turns when this Pokemon enters battle.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100516,
+    "key": "allseeing-idol",
+    "name": "Allseeing Idol",
+    "description": "The Pokemon is immune to Ground moves and hazards, even during Gravity, which also boosts Defense by 30%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100517,
+    "key": "acidic",
+    "name": "Acidic",
+    "description": "Poison-type attacks are super effective against Steel-type Pokemon.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100518,
+    "key": "aura-guard",
+    "name": "Aura Guard",
+    "description": "Halves damage taken from moves that make contact.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100519,
+    "key": "like-a-dragon",
+    "name": "Like a Dragon",
+    "description": "Gains Dragon-type STAB and resistances without gaining Dragon-type weaknesses.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100520,
+    "key": "electrolevitate",
+    "name": "Electromagnetism",
+    "description": "The Pokemon is immune to Ground-type moves and grounded entry hazards, but benefits from effects of Electric Terrain.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100521,
+    "key": "malice-aura",
+    "name": "Malice Aura",
+    "description": "Boosts the power of all Ghost-type moves in battle by 33%.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100522,
+    "key": "trueshot-aura",
+    "name": "Trueshot Aura",
+    "description": "Raises own and ally's critical-hit ratio by two stages.",
+    "source": "SoulGold v1.1.2 abilities export"
+  },
+  {
+    "id": 100523,
+    "key": "ogre-force",
+    "name": "Ogre Force",
+    "description": "Moves with added effects deal 15% more damage.",
+    "source": "SoulGold v1.1.2 abilities export"
+  }
+]
