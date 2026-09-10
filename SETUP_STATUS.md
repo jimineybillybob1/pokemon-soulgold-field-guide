@@ -1,10 +1,10 @@
 # Guide setup status
 
-- Status: Deployment in progress
-- Current phase: Cloud sync deployed; GitHub Pages publication in progress
+- Status: Deployed
+- Current phase: GitHub Pages and encrypted Cloudflare sync live
 - Readiness: Advanced ready for supplied evidence; Journey coverage partial
 - Last updated: 2026-09-10
-- Next question: Review the live GitHub Pages guide after deployment completes.
+- Next question: Review the live guide and choose any post-release refinements.
 
 ## Progress
 
@@ -19,7 +19,7 @@
 | Journey data | Partial | Legendary, Hidden Grotto, FAQ, gift/trade/fossil/egg and trophy evidence included; complete route/quest order unavailable |
 | Advanced data | Covered where evidenced | 433 trainer records, eight Johto badges, world map, and source-backed trainer/starter/rival profile included; unaudited map markers intentionally omitted |
 | Local build | Complete | Data build, validation, provenance and asset audits passed; desktop and touch/mobile layouts reviewed |
-| Deployment | In progress | Encrypted Cloudflare sync worker deployed with a guide-specific KV namespace; GitHub Pages repository and live-site verification pending |
+| Deployment | Complete | Public GitHub repository, GitHub Pages site and encrypted Cloudflare sync worker are live and verified |
 
 ## Confirmed decisions
 
@@ -58,3 +58,4 @@
 - Added an offline application shell and isolated local review on port 8893 to avoid stale service-worker state from prior guides.
 - Save migration, recovery and destructive import paths remain outside the claimed release QA scope.
 - Deployed `pokemon-soulgold-field-guide-sync` to the existing Cloudflare account with its own `pokemon-soulgold-field-guide-sync-saves` KV namespace and restricted CORS origins for the GitHub Pages owner origin plus local port 8893.
+- Published the public `jimineybillybob1/pokemon-soulgold-field-guide` repository and verified the GitHub Pages site returns the expected Pokémon SoulGold title. Verified the Cloudflare health endpoint returns sync version 2 and permits the GitHub Pages origin.
