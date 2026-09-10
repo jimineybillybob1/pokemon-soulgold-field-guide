@@ -1,7 +1,7 @@
 const CACHE_PREFIX = 'pokemon-soulgold-field-guide-';
-const CACHE_NAME = `${CACHE_PREFIX}1.1.2-20260910-r18`;
+const CACHE_NAME = `${CACHE_PREFIX}1.1.2-20260910-r19`;
 const SHELL = [
-  './', './index.html', './styles.css', './refinements.css?v=1.1.2-r18', './branding.css', './app.js?v=1.1.2-r18',
+  './', './index.html', './styles.css', './refinements.css?v=1.1.2-r19', './branding.css', './app.js?v=1.1.2-r19',
   './config/game-config.js?v=1.1.2-r18', './config/game-overrides.js?v=1.1.2-r18',
   './data/guide-data.js', './data/items-data.js', './data/legendary-data.js',
   './data/acquisition-data.js', './data/egg-data.js', './data/battle-data.js',
